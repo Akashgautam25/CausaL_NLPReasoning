@@ -7,18 +7,24 @@ from pydantic import BaseModel, Field
 
 
 class RelationClass(StrEnum):
+    """Classification of the asserted semantic relation between two entities."""
+
     CAUSAL = "causal"
     ASSOCIATION_ONLY = "association_only"
     NONE = "none"
 
 
 class Direction(StrEnum):
+    """Directional arrow of the asserted causal or associational relationship."""
+
     E1_TO_E2 = "entity_1->entity_2"
     E2_TO_E1 = "entity_2->entity_1"
     NOT_APPLICABLE = "not_applicable"
 
 
 class Polarity(StrEnum):
+    """Effect polarity indicating whether the exposure increases or decreases the outcome."""
+
     INCREASES = "increases"
     DECREASES = "decreases"
     MIXED_OR_UNCLEAR = "mixed_or_unclear"
@@ -26,12 +32,16 @@ class Polarity(StrEnum):
 
 
 class LanguageStatus(StrEnum):
+    """Epistemic modality of the assertion: affirmed, negated, or uncertain/hedged."""
+
     AFFIRMED = "affirmed"
     NEGATED = "negated"
     UNCERTAIN = "uncertain"
 
 
 class ReviewStatus(StrEnum):
+    """Human expert review and adjudication status for quality control."""
+
     UNREVIEWED = "unreviewed"
     ACCEPTED = "accepted"
     REJECTED = "rejected"
