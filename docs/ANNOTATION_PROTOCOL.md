@@ -10,7 +10,7 @@
 
 This protocol governs the human expert adjudication of candidate entity pairs extracted from the 500-abstract diabetes literature corpus (`data/manifest/corpus_manifest.jsonl`).
 
-Each annotation record in [`data/annotations/sample.jsonl`](file:///Users/pratyaksha_003/Desktop/Causal/data/annotations/sample.jsonl) presents:
+Each annotation record in [`data/annotations/sample.jsonl`](data/annotations/sample.jsonl) presents:
 - **`sentence_text`**: The unedited scientific sentence from PubMed.
 - **`entity_1`**: Mention text, character span, and canonical variable (`AgeCat`, `Sex`, `BMICat`, `PhysActivity`, `Smoker`, `Hypertension`, `InsulinResistance`, `SleepDuration`, `Outcome`, or `unmapped`).
 - **`entity_2`**: Mention text, character span, and canonical variable.
@@ -99,8 +99,8 @@ For every candidate pair, annotators independently assign four categorical varia
 ## 3. Double-Annotation & Cohen's Kappa Adjudication Protocol
 
 1. **Independent Labeling:**
-   - Annotator 1 receives [`data/annotations/annotator_1_to_label.csv`](file:///Users/pratyaksha_003/Desktop/Causal/data/annotations/annotator_1_to_label.csv) (all 250 candidate pairs).
-   - Annotator 2 receives [`data/annotations/annotator_2_to_label.csv`](file:///Users/pratyaksha_003/Desktop/Causal/data/annotations/annotator_2_to_label.csv) (the 47 double-annotated pairs).
+   - Annotator 1 receives [`data/annotations/annotator_1_to_label.csv`](data/annotations/annotator_1_to_label.csv) (all 250 candidate pairs).
+   - Annotator 2 receives [`data/annotations/annotator_2_to_label.csv`](data/annotations/annotator_2_to_label.csv) (the 47 double-annotated pairs).
    - Neither annotator may communicate or view model predictions during labeling.
 2. **Inter-Annotator Agreement Computation:**
    - Run agreement calculation:
