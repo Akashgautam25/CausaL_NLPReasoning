@@ -68,7 +68,7 @@ if not PRE:
       "because pretrained <i>distilbert-base-uncased</i> could not be downloaded in the build environment. These results verify the pipeline only and are <b>not</b> "
       "transfer-learning results. Run the training step on the target machine and re-run <font face='Courier'>python reports/build_report.py</font> to regenerate this report with the real fine-tuned numbers.", WARN)
 else:
-    P("<b>Numbers in this report come from fine-tuned pretrained distilbert-base-uncased</b> (see Section 11 for device, time and seed).", WARN)
+    P("<b>Numbers in this report come from fine-tuned pretrained distilbert-base-uncased</b> (see Section 9 for device, time and seed).", WARN)
 H("Abstract")
 P("The preceding Applied Machine Learning project extracted candidate cause-effect relations from diabetes abstracts with rule-based, keyword and prompted-LLM extractors and assembled them into an evidence graph. "
   "Its audit showed that the 'DistilBERT' extractor was a keyword heuristic and that its 250 labels were rule-generated (4 causal, none in validation/test). "
