@@ -35,11 +35,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.7176054120063782,
+          "confidence": 0.7176039218902588,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.7176054120063782,
+              "confidence": 0.7176039218902588,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.718"
@@ -62,11 +62,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.913424551486969,
+          "confidence": 0.9134231805801392,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.913424551486969,
+              "confidence": 0.9134231805801392,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.913"
@@ -89,11 +89,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.8798573017120361,
+          "confidence": 0.8798558115959167,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.8798573017120361,
+              "confidence": 0.8798558115959167,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.880"
@@ -131,11 +131,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.974956750869751,
+          "confidence": 0.9749565720558167,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.974956750869751,
+              "confidence": 0.9749565720558167,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.975"
@@ -173,11 +173,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.8572211861610413,
+          "confidence": 0.857218325138092,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.8572211861610413,
+              "confidence": 0.857218325138092,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.857"
@@ -200,11 +200,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.8625472187995911,
+          "confidence": 0.8625473976135254,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.8625472187995911,
+              "confidence": 0.8625473976135254,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.863"
@@ -242,11 +242,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.7599546909332275,
+          "confidence": 0.7599560618400574,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.7599546909332275,
+              "confidence": 0.7599560618400574,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.760"
@@ -288,14 +288,14 @@
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.9405262470245361,
+              "confidence": 0.9405250549316406,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.941"
             },
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.8852416276931763,
+              "confidence": 0.8852358460426331,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.885"
@@ -337,14 +337,14 @@
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.8899928331375122,
+              "confidence": 0.88999342918396,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.890"
             },
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.8497464656829834,
+              "confidence": 0.8497487902641296,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.850"
@@ -382,11 +382,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.8740982413291931,
+          "confidence": 0.8740958571434021,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.8740982413291931,
+              "confidence": 0.8740958571434021,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.874"
@@ -409,11 +409,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.7623047232627869,
+          "confidence": 0.762298583984375,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.7623047232627869,
+              "confidence": 0.762298583984375,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.762"
@@ -436,11 +436,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.897318959236145,
+          "confidence": 0.8973168730735779,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.897318959236145,
+              "confidence": 0.8973168730735779,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.897"
@@ -457,7 +457,7 @@
       "support_count": 6,
       "unique_evidence_sentences": 6,
       "unique_papers_count": 5,
-      "aggregated_confidence": 0.8831,
+      "aggregated_confidence": 0.8832,
       "extractors": [
         "FineTuned-DistilBERT"
       ],
@@ -478,11 +478,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.8964994549751282,
+          "confidence": 0.89649897813797,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.8964994549751282,
+              "confidence": 0.89649897813797,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.896"
@@ -505,11 +505,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.8953664898872375,
+          "confidence": 0.8953678011894226,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.8953664898872375,
+              "confidence": 0.8953678011894226,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.895"
@@ -532,11 +532,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.9081966280937195,
+          "confidence": 0.9081975817680359,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.9081966280937195,
+              "confidence": 0.9081975817680359,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.908"
@@ -559,11 +559,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.9577569365501404,
+          "confidence": 0.9577568173408508,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.9577569365501404,
+              "confidence": 0.9577568173408508,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.958"
@@ -586,11 +586,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.8464789986610413,
+          "confidence": 0.8464802503585815,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.8464789986610413,
+              "confidence": 0.8464802503585815,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.846"
@@ -617,14 +617,14 @@
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.8136945962905884,
+              "confidence": 0.8136926889419556,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.814"
             },
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.7754475474357605,
+              "confidence": 0.7754446268081665,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.775"
@@ -662,11 +662,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.8663565516471863,
+          "confidence": 0.8663519620895386,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.8663565516471863,
+              "confidence": 0.8663519620895386,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.866"
@@ -689,11 +689,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.9073540568351746,
+          "confidence": 0.9073517918586731,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.9073540568351746,
+              "confidence": 0.9073517918586731,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.907"
@@ -716,11 +716,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.7401701807975769,
+          "confidence": 0.7401594519615173,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.7401701807975769,
+              "confidence": 0.7401594519615173,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.740"
@@ -747,14 +747,14 @@
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.7246341705322266,
+              "confidence": 0.7246370315551758,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.725"
             },
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.9335139989852905,
+              "confidence": 0.9335142970085144,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.934"
@@ -792,11 +792,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.8281712532043457,
+          "confidence": 0.8281694650650024,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.8281712532043457,
+              "confidence": 0.8281694650650024,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.828"
@@ -834,11 +834,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.9832015633583069,
+          "confidence": 0.9832016825675964,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.9832015633583069,
+              "confidence": 0.9832016825675964,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.983"
@@ -876,11 +876,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.799631655216217,
+          "confidence": 0.799625039100647,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.799631655216217,
+              "confidence": 0.799625039100647,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.800"
@@ -903,11 +903,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.9900572896003723,
+          "confidence": 0.9900574088096619,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.9900572896003723,
+              "confidence": 0.9900574088096619,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.990"
@@ -945,11 +945,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.9554542899131775,
+          "confidence": 0.9554553031921387,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.9554542899131775,
+              "confidence": 0.9554553031921387,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.955"
@@ -1016,11 +1016,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.7176054120063782,
+          "confidence": 0.7176039218902588,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.7176054120063782,
+              "confidence": 0.7176039218902588,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.718"
@@ -1043,11 +1043,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.913424551486969,
+          "confidence": 0.9134231805801392,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.913424551486969,
+              "confidence": 0.9134231805801392,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.913"
@@ -1070,11 +1070,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.8798573017120361,
+          "confidence": 0.8798558115959167,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.8798573017120361,
+              "confidence": 0.8798558115959167,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.880"
@@ -1112,11 +1112,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.974956750869751,
+          "confidence": 0.9749565720558167,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.974956750869751,
+              "confidence": 0.9749565720558167,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.975"
@@ -1154,11 +1154,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.8572211861610413,
+          "confidence": 0.857218325138092,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.8572211861610413,
+              "confidence": 0.857218325138092,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.857"
@@ -1181,11 +1181,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.8625472187995911,
+          "confidence": 0.8625473976135254,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.8625472187995911,
+              "confidence": 0.8625473976135254,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.863"
@@ -1223,11 +1223,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.7599546909332275,
+          "confidence": 0.7599560618400574,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.7599546909332275,
+              "confidence": 0.7599560618400574,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.760"
@@ -1269,14 +1269,14 @@
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.9405262470245361,
+              "confidence": 0.9405250549316406,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.941"
             },
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.8852416276931763,
+              "confidence": 0.8852358460426331,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.885"
@@ -1318,14 +1318,14 @@
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.8899928331375122,
+              "confidence": 0.88999342918396,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.890"
             },
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.8497464656829834,
+              "confidence": 0.8497487902641296,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.850"
@@ -1363,11 +1363,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.8740982413291931,
+          "confidence": 0.8740958571434021,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.8740982413291931,
+              "confidence": 0.8740958571434021,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.874"
@@ -1390,11 +1390,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.7623047232627869,
+          "confidence": 0.762298583984375,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.7623047232627869,
+              "confidence": 0.762298583984375,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.762"
@@ -1417,11 +1417,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.897318959236145,
+          "confidence": 0.8973168730735779,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.897318959236145,
+              "confidence": 0.8973168730735779,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.897"
@@ -1438,7 +1438,7 @@
       "support_count": 6,
       "unique_evidence_sentences": 6,
       "unique_papers_count": 5,
-      "aggregated_confidence": 0.8831,
+      "aggregated_confidence": 0.8832,
       "extractors": [
         "FineTuned-DistilBERT"
       ],
@@ -1459,11 +1459,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.8964994549751282,
+          "confidence": 0.89649897813797,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.8964994549751282,
+              "confidence": 0.89649897813797,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.896"
@@ -1486,11 +1486,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.8953664898872375,
+          "confidence": 0.8953678011894226,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.8953664898872375,
+              "confidence": 0.8953678011894226,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.895"
@@ -1513,11 +1513,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.9081966280937195,
+          "confidence": 0.9081975817680359,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.9081966280937195,
+              "confidence": 0.9081975817680359,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.908"
@@ -1540,11 +1540,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.9577569365501404,
+          "confidence": 0.9577568173408508,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.9577569365501404,
+              "confidence": 0.9577568173408508,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.958"
@@ -1567,11 +1567,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.8464789986610413,
+          "confidence": 0.8464802503585815,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.8464789986610413,
+              "confidence": 0.8464802503585815,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.846"
@@ -1598,14 +1598,14 @@
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.8136945962905884,
+              "confidence": 0.8136926889419556,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.814"
             },
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.7754475474357605,
+              "confidence": 0.7754446268081665,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.775"
@@ -1643,11 +1643,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.8663565516471863,
+          "confidence": 0.8663519620895386,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.8663565516471863,
+              "confidence": 0.8663519620895386,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.866"
@@ -1670,11 +1670,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.9073540568351746,
+          "confidence": 0.9073517918586731,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.9073540568351746,
+              "confidence": 0.9073517918586731,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.907"
@@ -1697,11 +1697,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.7401701807975769,
+          "confidence": 0.7401594519615173,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.7401701807975769,
+              "confidence": 0.7401594519615173,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.740"
@@ -1728,14 +1728,14 @@
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.7246341705322266,
+              "confidence": 0.7246370315551758,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.725"
             },
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.9335139989852905,
+              "confidence": 0.9335142970085144,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.934"
@@ -1773,11 +1773,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.8281712532043457,
+          "confidence": 0.8281694650650024,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.8281712532043457,
+              "confidence": 0.8281694650650024,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.828"
@@ -1815,11 +1815,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.9832015633583069,
+          "confidence": 0.9832016825675964,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.9832015633583069,
+              "confidence": 0.9832016825675964,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.983"
@@ -1857,11 +1857,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.799631655216217,
+          "confidence": 0.799625039100647,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.799631655216217,
+              "confidence": 0.799625039100647,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.800"
@@ -1884,11 +1884,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.9900572896003723,
+          "confidence": 0.9900574088096619,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.9900572896003723,
+              "confidence": 0.9900574088096619,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.990"
@@ -1926,11 +1926,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.9554542899131775,
+          "confidence": 0.9554553031921387,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.9554542899131775,
+              "confidence": 0.9554553031921387,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.955"
@@ -1997,11 +1997,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.7275652289390564,
+          "confidence": 0.7275640964508057,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.7275652289390564,
+              "confidence": 0.7275640964508057,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.728"
@@ -2024,11 +2024,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.7374619841575623,
+          "confidence": 0.7374590635299683,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.7374619841575623,
+              "confidence": 0.7374590635299683,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.737"
@@ -2051,11 +2051,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.8812699913978577,
+          "confidence": 0.8812693953514099,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.8812699913978577,
+              "confidence": 0.8812693953514099,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.881"
@@ -2078,11 +2078,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.862175464630127,
+          "confidence": 0.8621723651885986,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.862175464630127,
+              "confidence": 0.8621723651885986,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.862"
@@ -2105,11 +2105,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.9692494869232178,
+          "confidence": 0.9692492485046387,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.9692494869232178,
+              "confidence": 0.9692492485046387,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.969"
@@ -2174,11 +2174,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.7275652289390564,
+          "confidence": 0.7275640964508057,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.7275652289390564,
+              "confidence": 0.7275640964508057,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.728"
@@ -2216,11 +2216,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.79742830991745,
+          "confidence": 0.7974286675453186,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.79742830991745,
+              "confidence": 0.7974286675453186,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.797"
@@ -2243,11 +2243,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.973293125629425,
+          "confidence": 0.9732930064201355,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.973293125629425,
+              "confidence": 0.9732930064201355,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.973"
@@ -2285,11 +2285,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.8226714730262756,
+          "confidence": 0.8226738572120667,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.8226714730262756,
+              "confidence": 0.8226738572120667,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.823"
@@ -2312,11 +2312,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.7126584053039551,
+          "confidence": 0.7126578092575073,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.7126584053039551,
+              "confidence": 0.7126578092575073,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.713"
@@ -2339,11 +2339,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.8344164490699768,
+          "confidence": 0.8344170451164246,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.8344164490699768,
+              "confidence": 0.8344170451164246,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.834"
@@ -2381,11 +2381,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.7698692679405212,
+          "confidence": 0.7698632478713989,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.7698692679405212,
+              "confidence": 0.7698632478713989,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.770"
@@ -2423,11 +2423,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.7275652289390564,
+          "confidence": 0.7275640964508057,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.7275652289390564,
+              "confidence": 0.7275640964508057,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.728"
@@ -2465,11 +2465,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.9830120205879211,
+          "confidence": 0.9830117225646973,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.9830120205879211,
+              "confidence": 0.9830117225646973,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.983"
@@ -2492,11 +2492,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.8550744652748108,
+          "confidence": 0.855073869228363,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.8550744652748108,
+              "confidence": 0.855073869228363,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.855"
@@ -2534,11 +2534,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.7202572226524353,
+          "confidence": 0.7202574610710144,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.7202572226524353,
+              "confidence": 0.7202574610710144,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.720"
@@ -2565,14 +2565,14 @@
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.7177227139472961,
+              "confidence": 0.7177224159240723,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.718"
             },
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.8530220985412598,
+              "confidence": 0.8530221581459045,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.853"
@@ -2595,11 +2595,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.9807797074317932,
+          "confidence": 0.9807789325714111,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.9807797074317932,
+              "confidence": 0.9807789325714111,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.981"
@@ -2626,14 +2626,14 @@
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.9790288209915161,
+              "confidence": 0.9790291786193848,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.979"
             },
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.769234836101532,
+              "confidence": 0.769232988357544,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.769"
@@ -2660,14 +2660,14 @@
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.7876855731010437,
+              "confidence": 0.7876794934272766,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.788"
             },
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.7479662895202637,
+              "confidence": 0.7479615807533264,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.748"
@@ -2690,11 +2690,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.7616397738456726,
+          "confidence": 0.7616316676139832,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.7616397738456726,
+              "confidence": 0.7616316676139832,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.762"
@@ -2736,14 +2736,14 @@
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.98261559009552,
+              "confidence": 0.9826153516769409,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.983"
             },
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.7160750031471252,
+              "confidence": 0.7160740494728088,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.716"
@@ -2766,11 +2766,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.9024767279624939,
+          "confidence": 0.9024723768234253,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.9024767279624939,
+              "confidence": 0.9024723768234253,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.902"
@@ -2793,11 +2793,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.7111285328865051,
+          "confidence": 0.7111230492591858,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.7111285328865051,
+              "confidence": 0.7111230492591858,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.711"
@@ -2820,11 +2820,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.7786584496498108,
+          "confidence": 0.7786495685577393,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.7786584496498108,
+              "confidence": 0.7786495685577393,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.779"
@@ -2847,11 +2847,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.8775374889373779,
+          "confidence": 0.8775383234024048,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.8775374889373779,
+              "confidence": 0.8775383234024048,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.878"
@@ -2885,7 +2885,7 @@
             },
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.9756337404251099,
+              "confidence": 0.9756326079368591,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.976"
@@ -2923,11 +2923,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.7622814178466797,
+          "confidence": 0.7622734904289246,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.7622814178466797,
+              "confidence": 0.7622734904289246,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.762"
@@ -2965,11 +2965,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.9020287990570068,
+          "confidence": 0.9020289182662964,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.9020287990570068,
+              "confidence": 0.9020289182662964,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.902"
@@ -3007,11 +3007,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.9233669638633728,
+          "confidence": 0.9233680963516235,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.9233669638633728,
+              "confidence": 0.9233680963516235,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.923"
@@ -3049,11 +3049,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.8012692332267761,
+          "confidence": 0.8012674450874329,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.8012692332267761,
+              "confidence": 0.8012674450874329,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.801"
@@ -3076,11 +3076,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.7982669472694397,
+          "confidence": 0.7982653379440308,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.7982669472694397,
+              "confidence": 0.7982653379440308,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.798"
@@ -3103,11 +3103,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.7419394850730896,
+          "confidence": 0.7419371604919434,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.7419394850730896,
+              "confidence": 0.7419371604919434,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.742"
@@ -3145,11 +3145,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.8949142098426819,
+          "confidence": 0.8949148654937744,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.8949142098426819,
+              "confidence": 0.8949148654937744,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.895"
@@ -3187,11 +3187,11 @@
           "supporting_extractors": [
             "FineTuned-DistilBERT"
           ],
-          "confidence": 0.7193161249160767,
+          "confidence": 0.7193168997764587,
           "predictions": [
             {
               "extractor": "FineTuned-DistilBERT",
-              "confidence": 0.7193161249160767,
+              "confidence": 0.7193168997764587,
               "polarity": "mixed_or_unclear",
               "language_status": "affirmed",
               "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.719"
