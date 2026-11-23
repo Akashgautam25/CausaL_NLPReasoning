@@ -1,5 +1,5 @@
 {
-  "checkpoint": "models/distilbert_base_uncased",
+  "checkpoint": "/Users/vivek13/Downloads/files 2/CausaL_NLPReasoning-main/models/distilbert_base_uncased",
   "pretrained_weights": true,
   "threshold": 0.7,
   "n_pairs": 2586,

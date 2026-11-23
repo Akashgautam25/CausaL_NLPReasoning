@@ -3,162 +3,162 @@
   "below_threshold": [
     {
       "pair_id": "PMID:42499017:s06:p01",
-      "confidence": 0.650702178478241,
+      "confidence": 0.6507011651992798,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42213742:s02:p06",
-      "confidence": 0.697150468826294,
+      "confidence": 0.697151243686676,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42213742:s02:p07",
-      "confidence": 0.697150468826294,
+      "confidence": 0.697151243686676,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42213742:s02:p08",
-      "confidence": 0.697150468826294,
+      "confidence": 0.697151243686676,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42213742:s02:p09",
-      "confidence": 0.697150468826294,
+      "confidence": 0.697151243686676,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42700058:s02:p01",
-      "confidence": 0.5488100647926331,
+      "confidence": 0.5488101243972778,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42700058:s02:p03",
-      "confidence": 0.5543171763420105,
+      "confidence": 0.5543211698532104,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42700058:s03:p01",
-      "confidence": 0.6437038779258728,
+      "confidence": 0.6437065601348877,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42783419:s03:p01",
-      "confidence": 0.5652920603752136,
+      "confidence": 0.5652937889099121,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42890806:s01:p01",
-      "confidence": 0.3897610008716583,
+      "confidence": 0.38976284861564636,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42658720:s02:p03",
-      "confidence": 0.6152183413505554,
+      "confidence": 0.6152184009552002,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42862335:s01:p01",
-      "confidence": 0.43995121121406555,
+      "confidence": 0.4399508535861969,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42862335:s02:p03",
-      "confidence": 0.6337780952453613,
+      "confidence": 0.6337758302688599,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42862335:s13:p06",
-      "confidence": 0.48855745792388916,
+      "confidence": 0.48855650424957275,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42862335:s13:p07",
-      "confidence": 0.48855745792388916,
+      "confidence": 0.48855650424957275,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42862335:s13:p08",
-      "confidence": 0.48855745792388916,
+      "confidence": 0.48855650424957275,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42862335:s13:p09",
-      "confidence": 0.48855745792388916,
+      "confidence": 0.48855650424957275,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42862335:s13:p10",
-      "confidence": 0.48855745792388916,
+      "confidence": 0.48855650424957275,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42862335:s13:p11",
-      "confidence": 0.48855745792388916,
+      "confidence": 0.48855650424957275,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42862335:s13:p12",
-      "confidence": 0.48855745792388916,
+      "confidence": 0.48855650424957275,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42862335:s13:p13",
-      "confidence": 0.48855745792388916,
+      "confidence": 0.48855650424957275,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42862335:s13:p14",
-      "confidence": 0.48855745792388916,
+      "confidence": 0.48855650424957275,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42862335:s13:p15",
-      "confidence": 0.48855745792388916,
+      "confidence": 0.48855650424957275,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42872196:s08:p05",
-      "confidence": 0.4585385024547577,
+      "confidence": 0.45854270458221436,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42824721:s01:p04",
-      "confidence": 0.44510504603385925,
+      "confidence": 0.4451058804988861,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42824721:s12:p08",
-      "confidence": 0.5112732648849487,
+      "confidence": 0.5112743377685547,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42824721:s12:p09",
-      "confidence": 0.5112732648849487,
+      "confidence": 0.5112743377685547,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42824721:s12:p11",
-      "confidence": 0.4152413606643677,
+      "confidence": 0.41524121165275574,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42824721:s12:p12",
-      "confidence": 0.4152413606643677,
+      "confidence": 0.41524121165275574,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42824721:s12:p13",
-      "confidence": 0.5555936694145203,
+      "confidence": 0.555595338344574,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42824721:s12:p14",
-      "confidence": 0.5555936694145203,
+      "confidence": 0.555595338344574,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42819449:s04:p01",
-      "confidence": 0.6180195212364197,
+      "confidence": 0.6180221438407898,
       "class": "causal"
     },
     {
@@ -168,62 +168,62 @@
     },
     {
       "pair_id": "PMID:42670404:s14:p03",
-      "confidence": 0.6561647057533264,
+      "confidence": 0.6561636328697205,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42694298:s01:p02",
-      "confidence": 0.5581551790237427,
+      "confidence": 0.5581597685813904,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42707244:s05:p01",
-      "confidence": 0.6011353135108948,
+      "confidence": 0.6011390686035156,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42707244:s05:p03",
-      "confidence": 0.4882614016532898,
+      "confidence": 0.4882589876651764,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42630470:s09:p19",
-      "confidence": 0.611699104309082,
+      "confidence": 0.6117005348205566,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42630470:s09:p20",
-      "confidence": 0.611699104309082,
+      "confidence": 0.6117005348205566,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42630470:s09:p21",
-      "confidence": 0.611699104309082,
+      "confidence": 0.6117005348205566,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42630470:s09:p22",
-      "confidence": 0.611699104309082,
+      "confidence": 0.6117005348205566,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42488722:s09:p03",
-      "confidence": 0.5762355923652649,
+      "confidence": 0.576237678527832,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42748410:s05:p01",
-      "confidence": 0.6492288708686829,
+      "confidence": 0.6492266058921814,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42812257:s09:p01",
-      "confidence": 0.6136791110038757,
+      "confidence": 0.6136796474456787,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42265693:s04:p05",
-      "confidence": 0.5685636401176453,
+      "confidence": 0.5685640573501587,
       "class": "causal"
     },
     {
@@ -233,97 +233,97 @@
     },
     {
       "pair_id": "PMID:42512909:s01:p01",
-      "confidence": 0.394673228263855,
+      "confidence": 0.3946779668331146,
       "class": "causal"
     },
     {
       "pair_id": "PMID:41634666:s03:p01",
-      "confidence": 0.5250105857849121,
+      "confidence": 0.5250137448310852,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42760186:s01:p02",
-      "confidence": 0.5543863773345947,
+      "confidence": 0.5543891787528992,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42575672:s02:p02",
-      "confidence": 0.6374695897102356,
+      "confidence": 0.6374694108963013,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42575672:s02:p08",
-      "confidence": 0.38365229964256287,
+      "confidence": 0.38365575671195984,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42575672:s05:p02",
-      "confidence": 0.4762139618396759,
+      "confidence": 0.4762129783630371,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42575672:s05:p04",
-      "confidence": 0.42828813195228577,
+      "confidence": 0.42828673124313354,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42575672:s06:p05",
-      "confidence": 0.5676109194755554,
+      "confidence": 0.5676118731498718,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42575672:s08:p02",
-      "confidence": 0.5094953775405884,
+      "confidence": 0.5094928741455078,
       "class": "causal"
     },
     {
       "pair_id": "PMID:41867241:s04:p01",
-      "confidence": 0.4750030040740967,
+      "confidence": 0.4750058948993683,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42620560:s02:p04",
-      "confidence": 0.6933082342147827,
+      "confidence": 0.6933098435401917,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42381893:s01:p06",
-      "confidence": 0.4149462878704071,
+      "confidence": 0.41494622826576233,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42582489:s08:p01",
-      "confidence": 0.6085472702980042,
+      "confidence": 0.608546793460846,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42582489:s09:p01",
-      "confidence": 0.6466661095619202,
+      "confidence": 0.6466628909111023,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42901975:s01:p01",
-      "confidence": 0.6047894954681396,
+      "confidence": 0.6047967076301575,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42901975:s02:p03",
-      "confidence": 0.5294231176376343,
+      "confidence": 0.5294255614280701,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42601774:s09:p03",
-      "confidence": 0.5138617753982544,
+      "confidence": 0.5138652324676514,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42796348:s02:p02",
-      "confidence": 0.6012117862701416,
+      "confidence": 0.6012114882469177,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42796348:s02:p03",
-      "confidence": 0.6046460866928101,
+      "confidence": 0.6046453714370728,
       "class": "causal"
     },
     {
@@ -333,172 +333,172 @@
     },
     {
       "pair_id": "PMID:42756900:s01:p03",
-      "confidence": 0.5669940710067749,
+      "confidence": 0.5669960379600525,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42756900:s05:p01",
-      "confidence": 0.3877275586128235,
+      "confidence": 0.38772478699684143,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42388961:s02:p01",
-      "confidence": 0.5003467202186584,
+      "confidence": 0.5003451108932495,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42388961:s02:p02",
-      "confidence": 0.5003467202186584,
+      "confidence": 0.5003451108932495,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42388961:s02:p03",
-      "confidence": 0.5003467202186584,
+      "confidence": 0.5003451108932495,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42388961:s02:p04",
-      "confidence": 0.5003467202186584,
+      "confidence": 0.5003451108932495,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42655935:s05:p10",
-      "confidence": 0.6729362607002258,
+      "confidence": 0.6729370951652527,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42588238:s02:p02",
-      "confidence": 0.6823601126670837,
+      "confidence": 0.6823633909225464,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42466348:s02:p02",
-      "confidence": 0.6138659715652466,
+      "confidence": 0.6138662099838257,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42466348:s02:p03",
-      "confidence": 0.645457923412323,
+      "confidence": 0.6454581618309021,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42615248:s06:p03",
-      "confidence": 0.6711584329605103,
+      "confidence": 0.67115718126297,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42615248:s06:p04",
-      "confidence": 0.513416051864624,
+      "confidence": 0.5134142637252808,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42615248:s06:p07",
-      "confidence": 0.6314325332641602,
+      "confidence": 0.6314333081245422,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42615248:s06:p09",
-      "confidence": 0.5594407916069031,
+      "confidence": 0.5594388246536255,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42237620:s08:p01",
-      "confidence": 0.5379613041877747,
+      "confidence": 0.5379596948623657,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42814269:s07:p01",
-      "confidence": 0.5120980739593506,
+      "confidence": 0.5121012926101685,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42883720:s02:p01",
-      "confidence": 0.6742076873779297,
+      "confidence": 0.6742096543312073,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42877484:s09:p01",
-      "confidence": 0.6100764870643616,
+      "confidence": 0.6100777983665466,
       "class": "causal"
     },
     {
       "pair_id": "PMID:41998064:s15:p03",
-      "confidence": 0.6463257074356079,
+      "confidence": 0.6463276147842407,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42899427:s07:p01",
-      "confidence": 0.4781770706176758,
+      "confidence": 0.4781777262687683,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42638941:s07:p01",
-      "confidence": 0.40524712204933167,
+      "confidence": 0.4052480161190033,
       "class": "causal"
     },
     {
       "pair_id": "PMID:41439842:s07:p01",
-      "confidence": 0.5852980613708496,
+      "confidence": 0.5853022336959839,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42189766:s07:p03",
-      "confidence": 0.6885476112365723,
+      "confidence": 0.6885483860969543,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42558546:s10:p01",
-      "confidence": 0.6905897855758667,
+      "confidence": 0.6905902028083801,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42271260:s03:p01",
-      "confidence": 0.5053854584693909,
+      "confidence": 0.5053877830505371,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42271260:s03:p03",
-      "confidence": 0.6519455909729004,
+      "confidence": 0.6519449353218079,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42271260:s06:p01",
-      "confidence": 0.6912956833839417,
+      "confidence": 0.6912930011749268,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42547683:s02:p01",
-      "confidence": 0.5160686373710632,
+      "confidence": 0.5160675048828125,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42547683:s02:p02",
-      "confidence": 0.6836905479431152,
+      "confidence": 0.6836922764778137,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42547683:s02:p03",
-      "confidence": 0.665363073348999,
+      "confidence": 0.6653649210929871,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42138393:s06:p03",
-      "confidence": 0.44036582112312317,
+      "confidence": 0.4403681755065918,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42595238:s01:p03",
-      "confidence": 0.4840792417526245,
+      "confidence": 0.4840819537639618,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42595238:s01:p04",
-      "confidence": 0.4840792417526245,
+      "confidence": 0.4840819537639618,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42225636:s01:p01",
-      "confidence": 0.6757360100746155,
+      "confidence": 0.6757383346557617,
       "class": "causal"
     },
     {
@@ -508,232 +508,232 @@
     },
     {
       "pair_id": "PMID:42450077:s04:p02",
-      "confidence": 0.6834575533866882,
+      "confidence": 0.6834596991539001,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42304130:s15:p01",
-      "confidence": 0.4383966624736786,
+      "confidence": 0.4383980929851532,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42783806:s03:p02",
-      "confidence": 0.4879574477672577,
+      "confidence": 0.48795685172080994,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42783806:s03:p03",
-      "confidence": 0.6965765357017517,
+      "confidence": 0.6965761780738831,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42783806:s03:p07",
-      "confidence": 0.6503089070320129,
+      "confidence": 0.6503087878227234,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42783806:s03:p09",
-      "confidence": 0.6026383638381958,
+      "confidence": 0.6026365160942078,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42783806:s03:p10",
-      "confidence": 0.6663647890090942,
+      "confidence": 0.6663631200790405,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42828458:s02:p01",
-      "confidence": 0.6811057329177856,
+      "confidence": 0.6811081171035767,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42225437:s03:p05",
-      "confidence": 0.41693180799484253,
+      "confidence": 0.4169321060180664,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42656766:s02:p01",
-      "confidence": 0.5175997018814087,
+      "confidence": 0.5176001787185669,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42656766:s02:p03",
-      "confidence": 0.6109982132911682,
+      "confidence": 0.6109943389892578,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42656766:s02:p04",
-      "confidence": 0.5348091721534729,
+      "confidence": 0.5348103046417236,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42656766:s02:p07",
-      "confidence": 0.5846313834190369,
+      "confidence": 0.5846292972564697,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42656766:s02:p08",
-      "confidence": 0.5037750005722046,
+      "confidence": 0.5037729740142822,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42656766:s02:p13",
-      "confidence": 0.6456035375595093,
+      "confidence": 0.6456040143966675,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42656766:s09:p02",
-      "confidence": 0.6209350824356079,
+      "confidence": 0.6209332942962646,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42656766:s12:p01",
-      "confidence": 0.497928649187088,
+      "confidence": 0.49792617559432983,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42656766:s13:p02",
-      "confidence": 0.6887096762657166,
+      "confidence": 0.6887097954750061,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42656766:s13:p03",
-      "confidence": 0.46918103098869324,
+      "confidence": 0.46917667984962463,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42656766:s13:p09",
-      "confidence": 0.632078230381012,
+      "confidence": 0.6320788860321045,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42656766:s13:p11",
-      "confidence": 0.5900455713272095,
+      "confidence": 0.5900473594665527,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42656766:s13:p12",
-      "confidence": 0.5441517233848572,
+      "confidence": 0.5441526770591736,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42656766:s13:p16",
-      "confidence": 0.6611716747283936,
+      "confidence": 0.6611689925193787,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42656766:s13:p17",
-      "confidence": 0.34111326932907104,
+      "confidence": 0.3411147892475128,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42656766:s13:p20",
-      "confidence": 0.6867130398750305,
+      "confidence": 0.6867143511772156,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42656766:s13:p21",
-      "confidence": 0.6558131575584412,
+      "confidence": 0.6558147668838501,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42656766:s13:p22",
-      "confidence": 0.6448203325271606,
+      "confidence": 0.6448209285736084,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42656766:s13:p23",
-      "confidence": 0.5788949728012085,
+      "confidence": 0.5788957476615906,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42656766:s13:p27",
-      "confidence": 0.46411219239234924,
+      "confidence": 0.46411028504371643,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42656766:s13:p36",
-      "confidence": 0.6911671161651611,
+      "confidence": 0.6911681890487671,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42491982:s01:p03",
-      "confidence": 0.480337917804718,
+      "confidence": 0.48033902049064636,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42798462:s01:p01",
-      "confidence": 0.47197261452674866,
+      "confidence": 0.47197484970092773,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42505561:s02:p01",
-      "confidence": 0.44358596205711365,
+      "confidence": 0.4435865581035614,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42650821:s01:p01",
-      "confidence": 0.5548297166824341,
+      "confidence": 0.5548310875892639,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42650821:s01:p03",
-      "confidence": 0.44509822130203247,
+      "confidence": 0.4450986087322235,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42817769:s06:p04",
-      "confidence": 0.5596858263015747,
+      "confidence": 0.5596869587898254,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42817769:s08:p01",
-      "confidence": 0.4977036118507385,
+      "confidence": 0.49770674109458923,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42733913:s02:p01",
-      "confidence": 0.5205448269844055,
+      "confidence": 0.5205479264259338,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42388501:s02:p04",
-      "confidence": 0.6607116460800171,
+      "confidence": 0.6607162952423096,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42502449:s05:p05",
-      "confidence": 0.6086392998695374,
+      "confidence": 0.6086417436599731,
       "class": "causal"
     },
     {
       "pair_id": "PMID:41645112:s01:p01",
-      "confidence": 0.5025931000709534,
+      "confidence": 0.5025949478149414,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42187875:s01:p09",
-      "confidence": 0.5564300417900085,
+      "confidence": 0.556429386138916,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42187875:s01:p12",
-      "confidence": 0.5682498812675476,
+      "confidence": 0.5682496428489685,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42694803:s05:p01",
-      "confidence": 0.591238260269165,
+      "confidence": 0.591238796710968,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42523808:s01:p06",
-      "confidence": 0.6074601411819458,
+      "confidence": 0.6074591875076294,
       "class": "causal"
     },
     {
       "pair_id": "PMID:42523808:s02:p03",
-      "confidence": 0.4661155641078949,
+      "confidence": 0.46611642837524414,
       "class": "causal"
     }
   ],
@@ -889,7 +889,7 @@
       "target": "PhysActivity",
       "confidence": 0.8503,
       "support_count": 3,
-      "cycle_detected": "BMICat -> PhysActivity -> BMICat"
+      "cycle_detected": "PhysActivity -> BMICat -> PhysActivity"
     },
     {
       "iteration": 2,
