@@ -1,5 +1,5 @@
 {
-  "checkpoint": "models/distilbert_base_uncased",
+  "checkpoint": "/Users/vivek13/Downloads/files 2/CausaL_NLPReasoning-main/models/distilbert_base_uncased",
   "model_kind": "PRETRAINED DistilBERT fine-tuned",
   "pretrained": true,
   "device": "mps",
@@ -54,8 +54,8 @@
         ]
       ],
       "binary_causal_f1": 0.7689594356261023,
-      "inference_seconds_total": 0.2651457500178367,
-      "inference_ms_per_sentence": 0.09820212963623581
+      "inference_seconds_total": 0.2691144589916803,
+      "inference_ms_per_sentence": 0.09967202184877048
     },
     "KeywordHeuristic": {
       "n": 2700,
@@ -107,8 +107,8 @@
         ]
       ],
       "binary_causal_f1": 0.3137254901960784,
-      "inference_seconds_total": 0.048535749985603616,
-      "inference_ms_per_sentence": 0.01797620369837171
+      "inference_seconds_total": 0.05214441698626615,
+      "inference_ms_per_sentence": 0.019312747031950427
     },
     "FineTuned-DistilBERT": {
       "n": 2700,
@@ -160,9 +160,9 @@
         ]
       ],
       "binary_causal_f1": 0.927710843373494,
-      "inference_seconds_total": 6.298310167010641,
-      "inference_ms_per_sentence": 2.3327074692632004,
-      "training_seconds": 480.2946154999954
+      "inference_seconds_total": 7.8474666659894865,
+      "inference_ms_per_sentence": 2.906469135551662,
+      "training_seconds": 345.5310712920036
     }
   },
   "silver_diabetes": {
@@ -570,7 +570,7 @@
         ]
       }
     },
-    "distilbert_inference_ms_per_pair": 5.0942833320004866,
+    "distilbert_inference_ms_per_pair": 5.331982168019749,
     "NOTE": "Labels are rule-generated PROVISIONAL_RULE_PSEUDO_GOLD (not human-verified). Only 4/250 are causal; test split has 0 causal. DistilBERT never predicts association_only (not in its training labels)."
   }
 }
