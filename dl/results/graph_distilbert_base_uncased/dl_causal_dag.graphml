@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d9" for="edge" attr.name="evidence_json" attr.type="string" />
+  <key id="d8" for="edge" attr.name="aggregated_confidence" attr.type="double" />
+  <key id="d7" for="edge" attr.name="agreement_count" attr.type="long" />
+  <key id="d6" for="edge" attr.name="extractors" attr.type="string" />
+  <key id="d5" for="edge" attr.name="unique_papers_count" attr.type="long" />
+  <key id="d4" for="edge" attr.name="unique_evidence_sentences" attr.type="long" />
+  <key id="d3" for="edge" attr.name="support_count" attr.type="long" />
+  <key id="d2" for="edge" attr.name="language_status" attr.type="string" />
+  <key id="d1" for="edge" attr.name="polarity" attr.type="string" />
+  <key id="d0" for="edge" attr.name="relation_class" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="TobaccoSmoking" />
+    <node id="Hypertension" />
+    <node id="PhysActivity" />
+    <node id="Outcome" />
+    <node id="BMICat" />
+    <node id="InsulinResistance" />
+    <node id="SleepDuration" />
+    <edge source="TobaccoSmoking" target="Hypertension">
+      <data key="d0">causal</data>
+      <data key="d1">mixed_or_unclear</data>
+      <data key="d2">affirmed</data>
+      <data key="d3">3</data>
+      <data key="d4">3</data>
+      <data key="d5">3</data>
+      <data key="d6">FineTuned-DistilBERT</data>
+      <data key="d7">1</data>
+      <data key="d8">0.837</data>
+      <data key="d9">[{"evidence_key": "PMID:42499017:s06", "pair_id": "PMID:42499017:s06:p03", "doc_id": "PMID:42499017", "sent_id": "PMID:42499017:s06", "pmid": "42499017", "url": "https://europepmc.org/article/MED/42499017", "sentence_text": "The overall model was sex-stratified and adjusted for FIB-4, clinically significant portal hypertension (CSPH), type 2 diabetes mellitus (T2DM) and smoking.", "char_spans": [91, 155], "extractor": "FineTuned-DistilBERT", "supporting_extractors": ["FineTuned-DistilBERT"], "confidence": 0.7176050543785095, "predictions": [{"extractor": "FineTuned-DistilBERT", "confidence": 0.7176050543785095, "polarity": "mixed_or_unclear", "language_status": "affirmed", "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.718"}]}, {"evidence_key": "PMID:42303654:s06", "pair_id": "PMID:42303654:s06:p01", "doc_id": "PMID:42303654", "sent_id": "PMID:42303654:s06", "pmid": "42303654", "url": "https://europepmc.org/article/MED/42303654", "sentence_text": "Multivariable logistic regression analyses were performed to evaluate the association between diabetes duration and cardiovascular outcomes after adjusting for age, sex, body mass index, hypertension, dyslipidemia, smoking status, alcohol consumption, and glycemic control.", "char_spans": [187, 222], "extractor": "FineTuned-DistilBERT", "supporting_extractors": ["FineTuned-DistilBERT"], "confidence": 0.9134241342544556, "predictions": [{"extractor": "FineTuned-DistilBERT", "confidence": 0.9134241342544556, "polarity": "mixed_or_unclear", "language_status": "affirmed", "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.913"}]}, {"evidence_key": "PMID:42798462:s15", "pair_id": "PMID:42798462:s15:p03", "doc_id": "PMID:42798462", "sent_id": "PMID:42798462:s15", "pmid": "42798462", "url": "https://europepmc.org/article/MED/42798462", "sentence_text": "No statistically significant associations were observed for male sex, total cholesterol, triglycerides, HDL-C, LDL-C, serum albumin, 25(OH)D, hypertension, smoking exposure, insulin therapy, or coronary/ischemic heart disease.", "char_spans": [142, 163], "extractor": "FineTuned-DistilBERT", "supporting_extractors": ["FineTuned-DistilBERT"], "confidence": 0.8798574805259705, "predictions": [{"extractor": "FineTuned-DistilBERT", "confidence": 0.8798574805259705, "polarity": "mixed_or_unclear", "language_status": "affirmed", "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.880"}]}]</data>
+    </edge>
+    <edge source="TobaccoSmoking" target="BMICat">
+      <data key="d0">causal</data>
+      <data key="d1">mixed_or_unclear</data>
+      <data key="d2">affirmed</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">FineTuned-DistilBERT</data>
+      <data key="d7">1</data>
+      <data key="d8">0.975</data>
+      <data key="d9">[{"evidence_key": "PMID:42359004:s06", "pair_id": "PMID:42359004:s06:p01", "doc_id": "PMID:42359004", "sent_id": "PMID:42359004:s06", "pmid": "42359004", "url": "https://europepmc.org/article/MED/42359004", "sentence_text": "These proposed associations and pathways may be modified or intensified by poor glycemic control, obesity, smoking, vitamin D deficiency, and gut dysbiosis.", "char_spans": [98, 114], "extractor": "FineTuned-DistilBERT", "supporting_extractors": ["FineTuned-DistilBERT"], "confidence": 0.9749566316604614, "predictions": [{"extractor": "FineTuned-DistilBERT", "confidence": 0.9749566316604614, "polarity": "mixed_or_unclear", "language_status": "affirmed", "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.975"}]}]</data>
+    </edge>
+    <edge source="TobaccoSmoking" target="Outcome">
+      <data key="d0">causal</data>
+      <data key="d1">mixed_or_unclear</data>
+      <data key="d2">affirmed</data>
+      <data key="d3">2</data>
+      <data key="d4">2</data>
+      <data key="d5">2</data>
+      <data key="d6">FineTuned-DistilBERT</data>
+      <data key="d7">1</data>
+      <data key="d8">0.8599</data>
+      <data key="d9">[{"evidence_key": "PMID:41439842:s09", "pair_id": "PMID:41439842:s09:p08", "doc_id": "PMID:41439842", "sent_id": "PMID:41439842:s09", "pmid": "41439842", "url": "https://europepmc.org/article/MED/41439842", "sentence_text": "The association was more pronounced among men and individuals with a history of heavy tobacco use.&lt;h4&gt;Conclusion&lt;/h4&gt;The estimated PAF for T2DM due to tobacco use underscores the significant contribution of policies established within the WHO Framework Convention on Tobacco Control to the prevention of chronic diseases.", "char_spans": [139, 158], "extractor": "FineTuned-DistilBERT", "supporting_extractors": ["FineTuned-DistilBERT"], "confidence": 0.8572235703468323, "predictions": [{"extractor": "FineTuned-DistilBERT", "confidence": 0.8572235703468323, "polarity": "mixed_or_unclear", "language_status": "affirmed", "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.857"}]}, {"evidence_key": "PMID:42189766:s07", "pair_id": "PMID:42189766:s07:p02", "doc_id": "PMID:42189766", "sent_id": "PMID:42189766:s07", "pmid": "42189766", "url": "https://europepmc.org/article/MED/42189766", "sentence_text": "While smoking exposure declined in all regions, low physical activity and diets high in red and processed meat increased over time.&lt;h4&gt;Conclusion&lt;/h4&gt;T2DM burden in Brazil is growing due to the increasing exposure to T2DM risk factors.", "char_spans": [6, 154], "extractor": "FineTuned-DistilBERT", "supporting_extractors": ["FineTuned-DistilBERT"], "confidence": 0.8625479936599731, "predictions": [{"extractor": "FineTuned-DistilBERT", "confidence": 0.8625479936599731, "polarity": "mixed_or_unclear", "language_status": "affirmed", "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.863"}]}]</data>
+    </edge>
+    <edge source="TobaccoSmoking" target="PhysActivity">
+      <data key="d0">causal</data>
+      <data key="d1">mixed_or_unclear</data>
+      <data key="d2">affirmed</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">FineTuned-DistilBERT</data>
+      <data key="d7">1</data>
+      <data key="d8">0.76</data>
+      <data key="d9">[{"evidence_key": "PMID:42189766:s07", "pair_id": "PMID:42189766:s07:p01", "doc_id": "PMID:42189766", "sent_id": "PMID:42189766:s07", "pmid": "42189766", "url": "https://europepmc.org/article/MED/42189766", "sentence_text": "While smoking exposure declined in all regions, low physical activity and diets high in red and processed meat increased over time.&lt;h4&gt;Conclusion&lt;/h4&gt;T2DM burden in Brazil is growing due to the increasing exposure to T2DM risk factors.", "char_spans": [6, 69], "extractor": "FineTuned-DistilBERT", "supporting_extractors": ["FineTuned-DistilBERT"], "confidence": 0.7599571347236633, "predictions": [{"extractor": "FineTuned-DistilBERT", "confidence": 0.7599571347236633, "polarity": "mixed_or_unclear", "language_status": "affirmed", "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.760"}]}]</data>
+    </edge>
+    <edge source="PhysActivity" target="Outcome">
+      <data key="d0">causal</data>
+      <data key="d1">mixed_or_unclear</data>
+      <data key="d2">affirmed</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">FineTuned-DistilBERT</data>
+      <data key="d7">1</data>
+      <data key="d8">0.9129</data>
+      <data key="d9">[{"evidence_key": "PMID:42700058:s02", "pair_id": "PMID:42700058:s02:p02", "doc_id": "PMID:42700058", "sent_id": "PMID:42700058:s02", "pmid": "42700058", "url": "https://europepmc.org/article/MED/42700058", "sentence_text": "Within this context, physical inactivity and prolonged sedentary behavior emerge as prominent, modifiable risk factors contributing to type 2 diabetes mellitus (T2DM).", "char_spans": [21, 159], "extractor": "FineTuned-DistilBERT", "supporting_extractors": ["FineTuned-DistilBERT"], "confidence": 0.9129, "predictions": [{"extractor": "FineTuned-DistilBERT", "confidence": 0.9405255913734436, "polarity": "mixed_or_unclear", "language_status": "affirmed", "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.941"}, {"extractor": "FineTuned-DistilBERT", "confidence": 0.8852397203445435, "polarity": "mixed_or_unclear", "language_status": "affirmed", "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.885"}]}]</data>
+    </edge>
+    <edge source="PhysActivity" target="BMICat">
+      <data key="d0">causal</data>
+      <data key="d1">mixed_or_unclear</data>
+      <data key="d2">affirmed</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">FineTuned-DistilBERT</data>
+      <data key="d7">1</data>
+      <data key="d8">0.8699</data>
+      <data key="d9">[{"evidence_key": "PMID:42824721:s12", "pair_id": "PMID:42824721:s12:p06", "doc_id": "PMID:42824721", "sent_id": "PMID:42824721:s12", "pmid": "42824721", "url": "https://europepmc.org/article/MED/42824721", "sentence_text": "Being female (AOR\u202f=\u202f2.36, 95% CI: 1.34-4.15), monthly income &gt;20,000 Ethiopian birr (AOR\u202f=\u202f2.38, 95% CI: 1.26-4.49), physical inactivity (AOR\u202f=\u202f2.36, 95% CI: 1.22-4.55) and poor glycemic control (AOR\u202f=\u202f8.86, 95% CI: 4.67-16.80) were also significantly associated with higher odds of overweight or obesity.&lt;h4&gt;Conclusion&lt;/h4&gt;In this single-center cross-sectional study, more than half of participants met body mass index criteria for overweight or obesity.", "char_spans": [117, 293], "extractor": "FineTuned-DistilBERT", "supporting_extractors": ["FineTuned-DistilBERT"], "confidence": 0.8699, "predictions": [{"extractor": "FineTuned-DistilBERT", "confidence": 0.8899928331375122, "polarity": "mixed_or_unclear", "language_status": "affirmed", "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.890"}, {"extractor": "FineTuned-DistilBERT", "confidence": 0.849746823310852, "polarity": "mixed_or_unclear", "language_status": "affirmed", "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.850"}]}]</data>
+    </edge>
+    <edge source="Outcome" target="Hypertension">
+      <data key="d0">causal</data>
+      <data key="d1">mixed_or_unclear</data>
+      <data key="d2">affirmed</data>
+      <data key="d3">3</data>
+      <data key="d4">3</data>
+      <data key="d5">3</data>
+      <data key="d6">FineTuned-DistilBERT</data>
+      <data key="d7">1</data>
+      <data key="d8">0.8446</data>
+      <data key="d9">[{"evidence_key": "PMID:42488722:s03", "pair_id": "PMID:42488722:s03:p04", "doc_id": "PMID:42488722", "sent_id": "PMID:42488722:s03", "pmid": "42488722", "url": "https://europepmc.org/article/MED/42488722", "sentence_text": "Metabolic syndrome (MetS)-defined by central obesity, hypertriglyceridemia, low HDL cholesterol, hypertension, and type 2 diabetes mellitus (T2DM)-is increasingly prevalent worldwide and is characterized by chronic immune dysregulation and alterations in gut microbiota.", "char_spans": [97, 139], "extractor": "FineTuned-DistilBERT", "supporting_extractors": ["FineTuned-DistilBERT"], "confidence": 0.8740975856781006, "predictions": [{"extractor": "FineTuned-DistilBERT", "confidence": 0.8740975856781006, "polarity": "mixed_or_unclear", "language_status": "affirmed", "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.874"}]}, {"evidence_key": "PMID:42575672:s08", "pair_id": "PMID:42575672:s08:p03", "doc_id": "PMID:42575672", "sent_id": "PMID:42575672:s08", "pmid": "42575672", "url": "https://europepmc.org/article/MED/42575672", "sentence_text": "Greater DASH adherence was associated with reduced risk of hypertension (aHR 0.91, 95% CI 0.86 to 0.96, p&lt;0.001) and T2DM (aHR 0.82, 95% CI 0.75 to 0.90, p&lt;0.001).&lt;h4&gt;Conclusions&lt;/h4&gt;Greater adherence to the DASH diet was associated with lower combined risk of HF and death due to HF, as well as hypertension and T2DM, supporting the role of a DASH diet in HF prevention.", "char_spans": [59, 317], "extractor": "FineTuned-DistilBERT", "supporting_extractors": ["FineTuned-DistilBERT"], "confidence": 0.7623016238212585, "predictions": [{"extractor": "FineTuned-DistilBERT", "confidence": 0.7623016238212585, "polarity": "mixed_or_unclear", "language_status": "affirmed", "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.762"}]}, {"evidence_key": "PMID:42523603:s09", "pair_id": "PMID:42523603:s09:p01", "doc_id": "PMID:42523603", "sent_id": "PMID:42523603:s09", "pmid": "42523603", "url": "https://europepmc.org/article/MED/42523603", "sentence_text": "T2DM, hypertension, and low HDL levels were independent risk factors for the presence of intrahepatic multifocal lesions at diagnosis.", "char_spans": [0, 18], "extractor": "FineTuned-DistilBERT", "supporting_extractors": ["FineTuned-DistilBERT"], "confidence": 0.8973178267478943, "predictions": [{"extractor": "FineTuned-DistilBERT", "confidence": 0.8973178267478943, "polarity": "mixed_or_unclear", "language_status": "affirmed", "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.897"}]}]</data>
+    </edge>
+    <edge source="BMICat" target="Hypertension">
+      <data key="d0">causal</data>
+      <data key="d1">mixed_or_unclear</data>
+      <data key="d2">affirmed</data>
+      <data key="d3">6</data>
+      <data key="d4">6</data>
+      <data key="d5">5</data>
+      <data key="d6">FineTuned-DistilBERT</data>
+      <data key="d7">1</data>
+      <data key="d8">0.8832</data>
+      <data key="d9">[{"evidence_key": "PMID:42488722:s03", "pair_id": "PMID:42488722:s03:p01", "doc_id": "PMID:42488722", "sent_id": "PMID:42488722:s03", "pmid": "42488722", "url": "https://europepmc.org/article/MED/42488722", "sentence_text": "Metabolic syndrome (MetS)-defined by central obesity, hypertriglyceridemia, low HDL cholesterol, hypertension, and type 2 diabetes mellitus (T2DM)-is increasingly prevalent worldwide and is characterized by chronic immune dysregulation and alterations in gut microbiota.", "char_spans": [45, 109], "extractor": "FineTuned-DistilBERT", "supporting_extractors": ["FineTuned-DistilBERT"], "confidence": 0.8964992761611938, "predictions": [{"extractor": "FineTuned-DistilBERT", "confidence": 0.8964992761611938, "polarity": "mixed_or_unclear", "language_status": "affirmed", "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.896"}]}, {"evidence_key": "PMID:42422434:s11", "pair_id": "PMID:42422434:s11:p01", "doc_id": "PMID:42422434", "sent_id": "PMID:42422434:s11", "pmid": "42422434", "url": "https://europepmc.org/article/MED/42422434", "sentence_text": "Risk factors for HUA included impaired renal function, obesity, dyslipidemia, hypertension, metabolic syndrome, and alcohol consumption, while elevated HbA1c was inversely associated with HUA.", "char_spans": [55, 90], "extractor": "FineTuned-DistilBERT", "supporting_extractors": ["FineTuned-DistilBERT"], "confidence": 0.8953680396080017, "predictions": [{"extractor": "FineTuned-DistilBERT", "confidence": 0.8953680396080017, "polarity": "mixed_or_unclear", "language_status": "affirmed", "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.895"}]}, {"evidence_key": "PMID:42422434:s13", "pair_id": "PMID:42422434:s13:p01", "doc_id": "PMID:42422434", "sent_id": "PMID:42422434:s13", "pmid": "42422434", "url": "https://europepmc.org/article/MED/42422434", "sentence_text": "Impaired renal function, obesity, dyslipidemia, hypertension, MetS, and alcohol consumption are the primary risk factors.", "char_spans": [25, 60], "extractor": "FineTuned-DistilBERT", "supporting_extractors": ["FineTuned-DistilBERT"], "confidence": 0.9081969857215881, "predictions": [{"extractor": "FineTuned-DistilBERT", "confidence": 0.9081969857215881, "polarity": "mixed_or_unclear", "language_status": "affirmed", "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.908"}]}, {"evidence_key": "PMID:42653674:s01", "pair_id": "PMID:42653674:s01:p01", "doc_id": "PMID:42653674", "sent_id": "PMID:42653674:s01", "pmid": "42653674", "url": "https://europepmc.org/article/MED/42653674", "sentence_text": "&lt;b&gt;Background/Objectives&lt;/b&gt;: The global rise in obesity-related hypertension, metabolic syndrome, and chronic inflammation calls for a precise characterization of the safety profiles of first-line therapies.", "char_spans": [49, 77], "extractor": "FineTuned-DistilBERT", "supporting_extractors": ["FineTuned-DistilBERT"], "confidence": 0.9577566981315613, "predictions": [{"extractor": "FineTuned-DistilBERT", "confidence": 0.9577566981315613, "polarity": "mixed_or_unclear", "language_status": "affirmed", "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.958"}]}, {"evidence_key": "PMID:42615248:s06", "pair_id": "PMID:42615248:s06:p10", "doc_id": "PMID:42615248", "sent_id": "PMID:42615248:s06", "pmid": "42615248", "url": "https://europepmc.org/article/MED/42615248", "sentence_text": "Overall, 72.4% of participants had at least 1 comorbidity, most often overweight/obesity (63.4%) (composite measure: overweight/obesity, hypertension, and reduced eGFR), and 81.1% had at least 1 diabetes-related complication, most commonly neuropathy (59.6%).", "char_spans": [128, 149], "extractor": "FineTuned-DistilBERT", "supporting_extractors": ["FineTuned-DistilBERT"], "confidence": 0.8464804887771606, "predictions": [{"extractor": "FineTuned-DistilBERT", "confidence": 0.8464804887771606, "polarity": "mixed_or_unclear", "language_status": "affirmed", "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.846"}]}, {"evidence_key": "PMID:42656766:s13", "pair_id": "PMID:42656766:s13:p29", "doc_id": "PMID:42656766", "sent_id": "PMID:42656766:s13", "pmid": "42656766", "url": "https://europepmc.org/article/MED/42656766", "sentence_text": "These factors were grouped into three categories: socio-demographic factors (age, sex, place of residence, educational level, monthly income and family history of overweight/obesity); behavioral factors (physical activity/exercise, dietary practice, alcohol consumption, walking status, walking level and vigorous physical activity); and clinical factors (comorbid hypertension, duration of diabetes, central obesity and triglyceride level).&lt;h4&gt;Conclusion&lt;/h4&gt;This study found that approximately half of patients with T2DM in Ethiopian studies were affected by overweight and obesity; there was a considerable difference across regions, with a higher prevalence observed in Addis Ababa.", "char_spans": [365, 571], "extractor": "FineTuned-DistilBERT", "supporting_extractors": ["FineTuned-DistilBERT"], "confidence": 0.7946, "predictions": [{"extractor": "FineTuned-DistilBERT", "confidence": 0.8136945366859436, "polarity": "mixed_or_unclear", "language_status": "affirmed", "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.814"}, {"extractor": "FineTuned-DistilBERT", "confidence": 0.775445818901062, "polarity": "mixed_or_unclear", "language_status": "affirmed", "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.775"}]}]</data>
+    </edge>
+    <edge source="BMICat" target="Outcome">
+      <data key="d0">causal</data>
+      <data key="d1">mixed_or_unclear</data>
+      <data key="d2">affirmed</data>
+      <data key="d3">4</data>
+      <data key="d4">4</data>
+      <data key="d5">4</data>
+      <data key="d6">FineTuned-DistilBERT</data>
+      <data key="d7">1</data>
+      <data key="d8">0.8357</data>
+      <data key="d9">[{"evidence_key": "PMID:42760186:s01", "pair_id": "PMID:42760186:s01:p01", "doc_id": "PMID:42760186", "sent_id": "PMID:42760186:s01", "pmid": "42760186", "url": "https://europepmc.org/article/MED/42760186", "sentence_text": "&lt;h4&gt;Background&lt;/h4&gt;Obesity is the primary risk factor for type 2 diabetes mellitus (T2DM), characterized by progressive loss of pancreatic function.", "char_spans": [19, 82], "extractor": "FineTuned-DistilBERT", "supporting_extractors": ["FineTuned-DistilBERT"], "confidence": 0.8663542866706848, "predictions": [{"extractor": "FineTuned-DistilBERT", "confidence": 0.8663542866706848, "polarity": "mixed_or_unclear", "language_status": "affirmed", "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.866"}]}, {"evidence_key": "PMID:42620560:s01", "pair_id": "PMID:42620560:s01:p01", "doc_id": "PMID:42620560", "sent_id": "PMID:42620560:s01", "pmid": "42620560", "url": "https://europepmc.org/article/MED/42620560", "sentence_text": "&lt;h4&gt;Background&lt;/h4&gt;Incretin-based therapies produce robust weight loss in obesity and type 2 diabetes mellitus (T2DM), but some weight lost is lean body mass (LBM), raising concern about sarcopenia and functional decline.", "char_spans": [74, 110], "extractor": "FineTuned-DistilBERT", "supporting_extractors": ["FineTuned-DistilBERT"], "confidence": 0.9073536396026611, "predictions": [{"extractor": "FineTuned-DistilBERT", "confidence": 0.9073536396026611, "polarity": "mixed_or_unclear", "language_status": "affirmed", "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.907"}]}, {"evidence_key": "PMID:42756900:s01", "pair_id": "PMID:42756900:s01:p02", "doc_id": "PMID:42756900", "sent_id": "PMID:42756900:s01", "pmid": "42756900", "url": "https://europepmc.org/article/MED/42756900", "sentence_text": "Type 2 diabetes mellitus (T2DM) is a prevalent metabolic disorder whose development and progression are influenced not only by genetic susceptibility, obesity, and lifestyle-related factors but also by gut microbiota dysbiosis, chronic low-grade inflammation, and disruption of immunometabolic homeostasis.", "char_spans": [0, 158], "extractor": "FineTuned-DistilBERT", "supporting_extractors": ["FineTuned-DistilBERT"], "confidence": 0.7401677966117859, "predictions": [{"extractor": "FineTuned-DistilBERT", "confidence": 0.7401677966117859, "polarity": "mixed_or_unclear", "language_status": "affirmed", "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.740"}]}, {"evidence_key": "PMID:42415555:s01", "pair_id": "PMID:42415555:s01:p01", "doc_id": "PMID:42415555", "sent_id": "PMID:42415555:s01", "pmid": "42415555", "url": "https://europepmc.org/article/MED/42415555", "sentence_text": "Pediatric obesity is a growing global concern because it leads to an increased prevalence of abnormal glucose metabolism, including dysglycemia, prediabetes, and type 2 diabetes.", "char_spans": [10, 156], "extractor": "FineTuned-DistilBERT", "supporting_extractors": ["FineTuned-DistilBERT"], "confidence": 0.8291, "predictions": [{"extractor": "FineTuned-DistilBERT", "confidence": 0.7246342301368713, "polarity": "mixed_or_unclear", "language_status": "affirmed", "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.725"}, {"extractor": "FineTuned-DistilBERT", "confidence": 0.9335134625434875, "polarity": "mixed_or_unclear", "language_status": "affirmed", "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.934"}]}]</data>
+    </edge>
+    <edge source="BMICat" target="SleepDuration">
+      <data key="d0">causal</data>
+      <data key="d1">mixed_or_unclear</data>
+      <data key="d2">affirmed</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">FineTuned-DistilBERT</data>
+      <data key="d7">1</data>
+      <data key="d8">0.8282</data>
+      <data key="d9">[{"evidence_key": "PMID:42317617:s07", "pair_id": "PMID:42317617:s07:p01", "doc_id": "PMID:42317617", "sent_id": "PMID:42317617:s07", "pmid": "42317617", "url": "https://europepmc.org/article/MED/42317617", "sentence_text": "Tirzepatide also improves obstructive sleep apnea severity in adults with obesity.", "char_spans": [38, 81], "extractor": "FineTuned-DistilBERT", "supporting_extractors": ["FineTuned-DistilBERT"], "confidence": 0.8281729221343994, "predictions": [{"extractor": "FineTuned-DistilBERT", "confidence": 0.8281729221343994, "polarity": "mixed_or_unclear", "language_status": "affirmed", "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.828"}]}]</data>
+    </edge>
+    <edge source="BMICat" target="InsulinResistance">
+      <data key="d0">causal</data>
+      <data key="d1">mixed_or_unclear</data>
+      <data key="d2">affirmed</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">FineTuned-DistilBERT</data>
+      <data key="d7">1</data>
+      <data key="d8">0.9832</data>
+      <data key="d9">[{"evidence_key": "PMID:42299201:s02", "pair_id": "PMID:42299201:s02:p01", "doc_id": "PMID:42299201", "sent_id": "PMID:42299201:s02", "pmid": "42299201", "url": "https://europepmc.org/article/MED/42299201", "sentence_text": "Studies have shown that vitamin D is associated with obesity and insulin resistance.", "char_spans": [53, 83], "extractor": "FineTuned-DistilBERT", "supporting_extractors": ["FineTuned-DistilBERT"], "confidence": 0.9832015633583069, "predictions": [{"extractor": "FineTuned-DistilBERT", "confidence": 0.9832015633583069, "polarity": "mixed_or_unclear", "language_status": "affirmed", "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.983"}]}]</data>
+    </edge>
+    <edge source="InsulinResistance" target="Outcome">
+      <data key="d0">causal</data>
+      <data key="d1">mixed_or_unclear</data>
+      <data key="d2">affirmed</data>
+      <data key="d3">2</data>
+      <data key="d4">2</data>
+      <data key="d5">2</data>
+      <data key="d6">FineTuned-DistilBERT</data>
+      <data key="d7">1</data>
+      <data key="d8">0.8948</data>
+      <data key="d9">[{"evidence_key": "PMID:42769672:s01", "pair_id": "PMID:42769672:s01:p02", "doc_id": "PMID:42769672", "sent_id": "PMID:42769672:s01", "pmid": "42769672", "url": "https://europepmc.org/article/MED/42769672", "sentence_text": "&lt;h4&gt;Background&lt;/h4&gt;Obstructive sleep apnoea (OSA) and type 2 diabetes mellitus (T2DM) are common chronic conditions with a potentially bidirectional relationship mediated by insulin resistance, intermittent hypoxia, and systemic inflammation.", "char_spans": [54, 192], "extractor": "FineTuned-DistilBERT", "supporting_extractors": ["FineTuned-DistilBERT"], "confidence": 0.7996307015419006, "predictions": [{"extractor": "FineTuned-DistilBERT", "confidence": 0.7996307015419006, "polarity": "mixed_or_unclear", "language_status": "affirmed", "reasoning": "DistilBERT argmax=CAUSE_E2_E1 p=0.800"}]}, {"evidence_key": "PMID:42722379:s04", "pair_id": "PMID:42722379:s04:p01", "doc_id": "PMID:42722379", "sent_id": "PMID:42722379:s04", "pmid": "42722379", "url": "https://europepmc.org/article/MED/42722379", "sentence_text": "These changes disrupt hypothalamic neuronal circuits involved in glucose sensing, energy balance, and insulin responsiveness, thereby potentially promoting systemic insulin resistance and T2DM progression.", "char_spans": [165, 192], "extractor": "FineTuned-DistilBERT", "supporting_extractors": ["FineTuned-DistilBERT"], "confidence": 0.9900574088096619, "predictions": [{"extractor": "FineTuned-DistilBERT", "confidence": 0.9900574088096619, "polarity": "mixed_or_unclear", "language_status": "affirmed", "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.990"}]}]</data>
+    </edge>
+    <edge source="SleepDuration" target="Outcome">
+      <data key="d0">causal</data>
+      <data key="d1">mixed_or_unclear</data>
+      <data key="d2">affirmed</data>
+      <data key="d3">2</data>
+      <data key="d4">2</data>
+      <data key="d5">1</data>
+      <data key="d6">FineTuned-DistilBERT</data>
+      <data key="d7">1</data>
+      <data key="d8">0.9657</data>
+      <data key="d9">[{"evidence_key": "PMID:42739101:s07", "pair_id": "PMID:42739101:s07:p01", "doc_id": "PMID:42739101", "sent_id": "PMID:42739101:s07", "pmid": "42739101", "url": "https://europepmc.org/article/MED/42739101", "sentence_text": "Compared with non-dehydration and good sleep quality, the combination of dehydration and poor sleep quality was associated with substantially higher odds of prevalent T2DM (adjusted &lt;i&gt;OR&lt;/i&gt; 9.92, &lt;i&gt;95% CI&lt;/i&gt; 7.14 to 14.00).", "char_spans": [89, 171], "extractor": "FineTuned-DistilBERT", "supporting_extractors": ["FineTuned-DistilBERT"], "confidence": 0.955454409122467, "predictions": [{"extractor": "FineTuned-DistilBERT", "confidence": 0.955454409122467, "polarity": "mixed_or_unclear", "language_status": "affirmed", "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.955"}]}, {"evidence_key": "PMID:42739101:s11", "pair_id": "PMID:42739101:s11:p01", "doc_id": "PMID:42739101", "sent_id": "PMID:42739101:s11", "pmid": "42739101", "url": "https://europepmc.org/article/MED/42739101", "sentence_text": "&lt;b&gt;Conclusions&lt;/b&gt;: The combination of dehydration and poor sleep quality was associated with higher odds of prevalent T2DM than either condition alone, and a statistically significant additive interaction was observed.", "char_spans": [55, 123], "extractor": "FineTuned-DistilBERT", "supporting_extractors": ["FineTuned-DistilBERT"], "confidence": 0.97596275806427, "predictions": [{"extractor": "FineTuned-DistilBERT", "confidence": 0.97596275806427, "polarity": "mixed_or_unclear", "language_status": "affirmed", "reasoning": "DistilBERT argmax=CAUSE_E1_E2 p=0.976"}]}]</data>
+    </edge>
+  </graph>
+</graphml>

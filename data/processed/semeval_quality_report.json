@@ -1,0 +1,37 @@
+{
+  "label_distribution": {
+    "train": {
+      "NONE": 6297,
+      "CAUSE_E2_E1": 593,
+      "CAUSE_E1_E2": 309
+    },
+    "dev": {
+      "NONE": 700,
+      "CAUSE_E1_E2": 35,
+      "CAUSE_E2_E1": 66
+    },
+    "test": {
+      "NONE": 2373,
+      "CAUSE_E2_E1": 193,
+      "CAUSE_E1_E2": 134
+    }
+  },
+  "empty_text": 0,
+  "missing_markers": 0,
+  "overlap_train_dev": 0,
+  "overlap_train_test": 0,
+  "sizes": {
+    "train": 7199,
+    "dev": 801,
+    "test": 2700
+  },
+  "seed": 42,
+  "dev_fraction": 0.1,
+  "test_dropped_for_leakage": 17,
+  "source": "SemEval-2010 Task 8 (human-annotated gold)",
+  "label_mapping": {
+    "Cause-Effect(e1,e2)": "CAUSE_E1_E2",
+    "Cause-Effect(e2,e1)": "CAUSE_E2_E1",
+    "all others": "NONE"
+  }
+}

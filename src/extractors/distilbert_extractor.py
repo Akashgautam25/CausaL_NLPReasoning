@@ -5,7 +5,7 @@ NOTE ON MODEL PROVENANCE:
 This module implements a lightweight keyword-based heuristic baseline (Extractor B)
 that operates on text tokenized with entity markers [E1]...[/E1] and [E2]...[/E2].
 It does NOT load or evaluate fine-tuned neural Transformer weights.
-A true fine-tuned DistilBERT / Bio-Transformer relation extractor remains future work.
+The genuine fine-tuned model now lives in src/extractors/distilbert/ (DL extension).
 """
 
 import logging
@@ -199,5 +199,7 @@ class KeywordHeuristicExtractor(BaseExtractor):
         return [self.predict_single(p) for p in pairs]
 
 
-# Alias for backward compatibility
+# Alias kept ONLY for backward compatibility with the original AML code (run_pipeline.py).
+# It is a keyword heuristic, NOT DistilBERT. The genuine fine-tuned model is
+# src/extractors/distilbert/extractor.py :: FineTunedDistilBERTExtractor.
 DistilBERTExtractor = KeywordHeuristicExtractor

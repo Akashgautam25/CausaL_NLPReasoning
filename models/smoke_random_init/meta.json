@@ -1,0 +1,14 @@
+{
+  "num_labels": 3,
+  "labels": [
+    "NONE",
+    "CAUSE_E1_E2",
+    "CAUSE_E2_E1"
+  ],
+  "max_length": 128,
+  "base_model": "random-init-small-DistilBERT-architecture",
+  "pretrained": false,
+  "best_epoch": 2,
+  "best_val_macro_f1": 0.376858111256062,
+  "seed": 42
+}

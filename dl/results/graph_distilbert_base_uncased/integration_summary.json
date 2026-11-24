@@ -1,0 +1,32 @@
+{
+  "checkpoint": "models/distilbert_base_uncased",
+  "pretrained_weights": true,
+  "threshold": 0.7,
+  "n_pairs": 2586,
+  "n_pred_causal": 274,
+  "n_unscorable": 0,
+  "n_below_threshold": 147,
+  "n_direction_conflicts": 9,
+  "self_loops_rejected": 43,
+  "cycles_before_repair": 7,
+  "edges_removed_by_repair": 3,
+  "dag_nodes": 7,
+  "dag_edges": 13,
+  "is_dag": true,
+  "edges": [
+    "TobaccoSmoking->Hypertension",
+    "TobaccoSmoking->BMICat",
+    "TobaccoSmoking->Outcome",
+    "TobaccoSmoking->PhysActivity",
+    "PhysActivity->Outcome",
+    "PhysActivity->BMICat",
+    "Outcome->Hypertension",
+    "BMICat->Hypertension",
+    "BMICat->Outcome",
+    "BMICat->SleepDuration",
+    "BMICat->InsulinResistance",
+    "InsulinResistance->Outcome",
+    "SleepDuration->Outcome"
+  ],
+  "WARNING": null
+}

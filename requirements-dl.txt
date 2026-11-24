@@ -1,0 +1,11 @@
+-r requirements.txt
+# Deep Learning extension (tested with Python 3.12, torch 2.14 CPU, transformers 5.24, pgmpy 1.1.2)
+torch>=2.2            # macOS arm64 wheels include Apple MPS support
+transformers>=4.40
+tokenizers>=0.19
+pgmpy>=0.1.25
+seaborn>=0.13
+jupyter
+nbconvert
+ipykernel
+reportlab>=4.0

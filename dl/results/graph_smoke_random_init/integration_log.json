@@ -1,0 +1,905 @@
+{
+  "threshold": 0.4,
+  "below_threshold": [
+    {
+      "pair_id": "PMID:42499017:s11:p01",
+      "confidence": 0.3602527379989624,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42804034:s04:p01",
+      "confidence": 0.39875826239585876,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42730413:s02:p01",
+      "confidence": 0.3471117913722992,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42862335:s13:p01",
+      "confidence": 0.38230907917022705,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42862335:s13:p02",
+      "confidence": 0.3504083454608917,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42862335:s13:p03",
+      "confidence": 0.3504083454608917,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42862335:s13:p04",
+      "confidence": 0.3504083454608917,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42862335:s13:p05",
+      "confidence": 0.3504083454608917,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42824721:s01:p06",
+      "confidence": 0.3801330029964447,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42656443:s04:p01",
+      "confidence": 0.36707326769828796,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42582326:s02:p03",
+      "confidence": 0.378753125667572,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42503624:s09:p05",
+      "confidence": 0.37757956981658936,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42670404:s14:p01",
+      "confidence": 0.3895024061203003,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42798080:s04:p01",
+      "confidence": 0.391327440738678,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42694298:s01:p03",
+      "confidence": 0.3445437252521515,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42584177:s01:p03",
+      "confidence": 0.39457669854164124,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42694168:s09:p01",
+      "confidence": 0.3911302387714386,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42694168:s10:p01",
+      "confidence": 0.3911302387714386,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42542636:s03:p05",
+      "confidence": 0.38027453422546387,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42571999:s01:p01",
+      "confidence": 0.3823173940181732,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:41626049:s01:p06",
+      "confidence": 0.3725619614124298,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42571021:s03:p01",
+      "confidence": 0.38557320833206177,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42630470:s03:p01",
+      "confidence": 0.3589569926261902,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42630470:s09:p14",
+      "confidence": 0.38594213128089905,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42630470:s09:p16",
+      "confidence": 0.3504083454608917,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42630470:s09:p17",
+      "confidence": 0.3504083454608917,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42630470:s09:p18",
+      "confidence": 0.3504083454608917,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42614162:s02:p01",
+      "confidence": 0.3681061565876007,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42651350:s02:p01",
+      "confidence": 0.3599781095981598,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42558455:s01:p01",
+      "confidence": 0.3681122958660126,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42632082:s05:p02",
+      "confidence": 0.36268526315689087,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42265693:s01:p06",
+      "confidence": 0.3773045241832733,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42265693:s04:p06",
+      "confidence": 0.36204105615615845,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42889580:s01:p01",
+      "confidence": 0.3894023001194,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42771993:s08:p01",
+      "confidence": 0.39142560958862305,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42455759:s03:p01",
+      "confidence": 0.3914380371570587,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42381893:s05:p01",
+      "confidence": 0.38381728529930115,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42381893:s06:p02",
+      "confidence": 0.3983919620513916,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42582489:s07:p01",
+      "confidence": 0.38882800936698914,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42499222:s01:p03",
+      "confidence": 0.3645157217979431,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42572775:s01:p03",
+      "confidence": 0.3998596966266632,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42756900:s01:p03",
+      "confidence": 0.37423503398895264,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42715907:s02:p05",
+      "confidence": 0.3962074816226959,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42715907:s02:p06",
+      "confidence": 0.37636956572532654,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42601881:s08:p01",
+      "confidence": 0.3520137071609497,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:41883562:s01:p11",
+      "confidence": 0.39424237608909607,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:41883562:s01:p12",
+      "confidence": 0.3844870626926422,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42216107:s06:p01",
+      "confidence": 0.3860495388507843,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42466348:s02:p04",
+      "confidence": 0.38531848788261414,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42643696:s01:p01",
+      "confidence": 0.3773569166660309,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42611042:s01:p01",
+      "confidence": 0.38206109404563904,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42299201:s10:p01",
+      "confidence": 0.3750236928462982,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42299201:s11:p19",
+      "confidence": 0.366362065076828,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42299201:s11:p27",
+      "confidence": 0.396753191947937,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42630215:s01:p02",
+      "confidence": 0.38515013456344604,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42630215:s15:p01",
+      "confidence": 0.3780733346939087,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42755676:s02:p01",
+      "confidence": 0.3466837704181671,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42550956:s01:p01",
+      "confidence": 0.39249342679977417,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42137346:s04:p01",
+      "confidence": 0.3532373607158661,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42481915:s01:p31",
+      "confidence": 0.37666553258895874,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42481915:s01:p32",
+      "confidence": 0.37666553258895874,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42481915:s01:p33",
+      "confidence": 0.37666553258895874,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42481915:s01:p34",
+      "confidence": 0.37666553258895874,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42736920:s01:p01",
+      "confidence": 0.3975052535533905,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42818676:s09:p01",
+      "confidence": 0.39031660556793213,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42818676:s09:p02",
+      "confidence": 0.39031660556793213,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42189766:s07:p02",
+      "confidence": 0.3954021632671356,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42257477:s03:p01",
+      "confidence": 0.367684006690979,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42375319:s01:p03",
+      "confidence": 0.36201387643814087,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42271260:s03:p05",
+      "confidence": 0.37915098667144775,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42271260:s03:p06",
+      "confidence": 0.3446647524833679,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42271260:s03:p07",
+      "confidence": 0.37200701236724854,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42639604:s01:p01",
+      "confidence": 0.37880557775497437,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42788662:s01:p01",
+      "confidence": 0.3848712742328644,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42504374:s12:p01",
+      "confidence": 0.38503578305244446,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42824654:s01:p08",
+      "confidence": 0.3991571366786957,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42527195:s10:p01",
+      "confidence": 0.3849438428878784,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42502734:s09:p01",
+      "confidence": 0.39254868030548096,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42415555:s01:p01",
+      "confidence": 0.38890111446380615,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42889483:s01:p09",
+      "confidence": 0.36451199650764465,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42074925:s02:p01",
+      "confidence": 0.3683464825153351,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42523603:s04:p02",
+      "confidence": 0.37687042355537415,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42858811:s01:p01",
+      "confidence": 0.37880557775497437,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42510915:s04:p01",
+      "confidence": 0.37739717960357666,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42682957:s01:p01",
+      "confidence": 0.3740777373313904,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42682957:s01:p02",
+      "confidence": 0.36235225200653076,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42597803:s08:p01",
+      "confidence": 0.39660346508026123,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42827645:s01:p03",
+      "confidence": 0.3986448645591736,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42502449:s01:p01",
+      "confidence": 0.3974144458770752,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42718572:s01:p13",
+      "confidence": 0.3731241226196289,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42718572:s03:p09",
+      "confidence": 0.3719116449356079,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42718572:s03:p47",
+      "confidence": 0.3805781602859497,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42187875:s01:p04",
+      "confidence": 0.3664061725139618,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42187875:s01:p13",
+      "confidence": 0.3956562578678131,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42187875:s08:p04",
+      "confidence": 0.36520063877105713,
+      "class": "causal"
+    }
+  ],
+  "unscorable": [],
+  "direction_conflicts": [
+    {
+      "edge_a": "Outcome->TobaccoSmoking",
+      "support_a": [
+        "PMID:42717744:s04:p01",
+        "PMID:42499017:s10:p01",
+        "PMID:42694168:s01:p01",
+        "PMID:42694168:s02:p03",
+        "PMID:42867177:s05:p01",
+        "PMID:41439842:s01:p02"
+      ],
+      "edge_b": "TobaccoSmoking->Outcome",
+      "support_b": [
+        "PMID:42694168:s11:p10",
+        "PMID:41439842:s07:p01",
+        "PMID:41439842:s09:p09"
+      ]
+    },
+    {
+      "edge_a": "InsulinResistance->Outcome",
+      "support_a": [
+        "PMID:42713502:s01:p01",
+        "PMID:42889580:s01:p02",
+        "PMID:42539781:s02:p01",
+        "PMID:42795278:s01:p02",
+        "PMID:42831040:s03:p01",
+        "PMID:42639604:s05:p03",
+        "PMID:42639604:s05:p06",
+        "PMID:42798059:s10:p01",
+        "PMID:42798059:s10:p02",
+        "PMID:42502734:s01:p03",
+        "PMID:42502734:s01:p06"
+      ],
+      "edge_b": "Outcome->InsulinResistance",
+      "support_b": [
+        "PMID:42884133:s01:p01",
+        "PMID:42884133:s01:p02",
+        "PMID:42884133:s01:p03",
+        "PMID:42694298:s01:p02",
+        "PMID:42756900:s05:p01",
+        "PMID:42653779:s05:p01",
+        "PMID:42653779:s05:p02",
+        "PMID:42722379:s04:p01",
+        "PMID:42883720:s02:p01",
+        "PMID:42595238:s01:p01",
+        "PMID:42504374:s09:p02",
+        "PMID:42304130:s01:p02",
+        "PMID:42491982:s01:p02",
+        "PMID:42682957:s10:p02",
+        "PMID:42898555:s02:p01",
+        "PMID:42898555:s02:p02"
+      ]
+    },
+    {
+      "edge_a": "Hypertension->InsulinResistance",
+      "support_a": [
+        "PMID:42213742:s02:p10",
+        "PMID:42601881:s07:p01"
+      ],
+      "edge_b": "InsulinResistance->Hypertension",
+      "support_b": [
+        "PMID:42796348:s02:p02"
+      ]
+    },
+    {
+      "edge_a": "Outcome->PhysActivity",
+      "support_a": [
+        "PMID:42700058:s03:p03",
+        "PMID:42512909:s01:p01",
+        "PMID:42512909:s01:p02",
+        "PMID:42694689:s03:p01",
+        "PMID:42237620:s08:p02",
+        "PMID:42189766:s07:p04",
+        "PMID:42558546:s01:p01",
+        "PMID:42558546:s10:p03",
+        "PMID:42510915:s03:p10",
+        "PMID:42187875:s01:p03"
+      ],
+      "edge_b": "PhysActivity->Outcome",
+      "support_b": [
+        "PMID:42700058:s02:p04",
+        "PMID:42745276:s01:p02",
+        "PMID:42859675:s02:p03",
+        "PMID:42694689:s02:p03",
+        "PMID:42597803:s04:p01"
+      ]
+    },
+    {
+      "edge_a": "BMICat->Outcome",
+      "support_a": [
+        "PMID:42862335:s04:p02",
+        "PMID:42862335:s04:p03",
+        "PMID:42799180:s09:p02",
+        "PMID:42571999:s02:p08",
+        "PMID:41634666:s01:p01",
+        "PMID:41634666:s03:p01",
+        "PMID:42607927:s09:p03",
+        "PMID:42620560:s02:p04",
+        "PMID:42317617:s01:p01",
+        "PMID:42299201:s11:p14",
+        "PMID:41998064:s02:p01",
+        "PMID:42899427:s09:p01",
+        "PMID:42450077:s04:p03",
+        "PMID:42074925:s02:p02",
+        "PMID:42074925:s02:p03",
+        "PMID:42177716:s06:p01",
+        "PMID:42177716:s06:p02",
+        "PMID:41645112:s01:p03",
+        "PMID:42718572:s01:p02",
+        "PMID:42523808:s06:p01"
+      ],
+      "edge_b": "Outcome->BMICat",
+      "support_b": [
+        "PMID:42700058:s03:p02",
+        "PMID:42824721:s01:p03",
+        "PMID:42824721:s01:p05",
+        "PMID:42824721:s02:p02",
+        "PMID:42824721:s03:p02",
+        "PMID:42503624:s02:p01",
+        "PMID:42503624:s09:p01",
+        "PMID:42503624:s09:p03",
+        "PMID:42799180:s09:p01",
+        "PMID:42488722:s03:p02",
+        "PMID:42488722:s03:p03",
+        "PMID:42760186:s01:p01",
+        "PMID:41867241:s04:p05",
+        "PMID:42756900:s01:p02",
+        "PMID:42818676:s11:p02",
+        "PMID:42818676:s11:p03",
+        "PMID:42818676:s11:p04",
+        "PMID:42818676:s11:p05",
+        "PMID:42547683:s02:p03",
+        "PMID:42656766:s01:p04",
+        "PMID:42656766:s01:p05",
+        "PMID:42656766:s12:p02",
+        "PMID:42656766:s12:p03",
+        "PMID:42650821:s01:p01",
+        "PMID:42817769:s06:p01",
+        "PMID:42817769:s06:p06",
+        "PMID:42513540:s01:p01",
+        "PMID:42513540:s01:p02",
+        "PMID:42718572:s03:p02",
+        "PMID:42718572:s03:p11",
+        "PMID:42544311:s01:p01"
+      ]
+    },
+    {
+      "edge_a": "PhysActivity->Sex",
+      "support_a": [
+        "PMID:42670404:s12:p02"
+      ],
+      "edge_b": "Sex->PhysActivity",
+      "support_b": [
+        "PMID:42670404:s14:p02"
+      ]
+    },
+    {
+      "edge_a": "Outcome->Sex",
+      "support_a": [
+        "PMID:42817592:s06:p03",
+        "PMID:42424092:s07:p02",
+        "PMID:42424092:s08:p01",
+        "PMID:42424092:s08:p02",
+        "PMID:42694168:s02:p02",
+        "PMID:42630470:s09:p15",
+        "PMID:42632082:s01:p01",
+        "PMID:42381871:s03:p08",
+        "PMID:42381871:s09:p07",
+        "PMID:42381871:s09:p08",
+        "PMID:42802801:s02:p01",
+        "PMID:42802801:s02:p03",
+        "PMID:42620560:s02:p03",
+        "PMID:42620560:s03:p02",
+        "PMID:41883562:s08:p01",
+        "PMID:42481915:s01:p30",
+        "PMID:42481915:s03:p03",
+        "PMID:42363097:s04:p02",
+        "PMID:42363097:s07:p01",
+        "PMID:42152291:s03:p01",
+        "PMID:42152291:s12:p01"
+      ],
+      "edge_b": "Sex->Outcome",
+      "support_b": [
+        "PMID:42304503:s02:p01",
+        "PMID:42694168:s11:p09",
+        "PMID:42812257:s04:p01",
+        "PMID:42632082:s02:p01",
+        "PMID:42381871:s01:p02",
+        "PMID:42381871:s02:p01",
+        "PMID:42381871:s03:p05",
+        "PMID:42381871:s09:p01",
+        "PMID:42740863:s04:p01",
+        "PMID:42620560:s02:p02",
+        "PMID:42422434:s12:p01",
+        "PMID:42899079:s07:p03",
+        "PMID:42784648:s12:p01",
+        "PMID:41883562:s01:p07",
+        "PMID:41883562:s01:p10",
+        "PMID:42481915:s01:p20",
+        "PMID:42481915:s01:p22",
+        "PMID:42481915:s01:p24",
+        "PMID:42481915:s01:p26",
+        "PMID:42481915:s01:p35",
+        "PMID:42481915:s03:p01",
+        "PMID:42042896:s06:p02",
+        "PMID:42255424:s01:p07",
+        "PMID:42255424:s01:p09",
+        "PMID:42365226:s01:p03",
+        "PMID:42399945:s08:p01",
+        "PMID:42349256:s03:p01",
+        "PMID:42349256:s03:p02",
+        "PMID:41975840:s05:p01"
+      ]
+    },
+    {
+      "edge_a": "BMICat->PhysActivity",
+      "support_a": [
+        "PMID:42469908:s11:p01"
+      ],
+      "edge_b": "PhysActivity->BMICat",
+      "support_b": [
+        "PMID:42700058:s03:p01",
+        "PMID:42670404:s12:p03",
+        "PMID:42670404:s14:p03"
+      ]
+    },
+    {
+      "edge_a": "AgeCat->Outcome",
+      "support_a": [
+        "PMID:42529019:s01:p02",
+        "PMID:42834749:s08:p06",
+        "PMID:42656667:s02:p01",
+        "PMID:41952155:s02:p01",
+        "PMID:42527195:s07:p01",
+        "PMID:42259891:s11:p01",
+        "PMID:42566486:s09:p02"
+      ],
+      "edge_b": "Outcome->AgeCat",
+      "support_b": [
+        "PMID:42651350:s01:p02",
+        "PMID:42694689:s09:p01",
+        "PMID:42502534:s01:p02",
+        "PMID:42120108:s05:p07",
+        "PMID:42527195:s01:p01",
+        "PMID:42527195:s01:p02"
+      ]
+    },
+    {
+      "edge_a": "Hypertension->Outcome",
+      "support_a": [
+        "PMID:42796297:s01:p02",
+        "PMID:42796297:s01:p03",
+        "PMID:42796297:s06:p01",
+        "PMID:42796297:s12:p01",
+        "PMID:42303654:s03:p01",
+        "PMID:42575672:s08:p04",
+        "PMID:42461841:s14:p01",
+        "PMID:42588238:s02:p02",
+        "PMID:42877484:s09:p01",
+        "PMID:42254320:s01:p02",
+        "PMID:42254320:s01:p03",
+        "PMID:42523603:s11:p01"
+      ],
+      "edge_b": "Outcome->Hypertension",
+      "support_b": [
+        "PMID:42499017:s06:p01",
+        "PMID:42058786:s07:p01",
+        "PMID:42575672:s05:p06",
+        "PMID:42575672:s08:p01",
+        "PMID:41867241:s04:p03",
+        "PMID:42901975:s02:p06",
+        "PMID:42516458:s01:p01",
+        "PMID:42523603:s09:p01",
+        "PMID:42388501:s02:p02",
+        "PMID:42388501:s02:p04"
+      ]
+    },
+    {
+      "edge_a": "BMICat->Hypertension",
+      "support_a": [
+        "PMID:42607927:s09:p01",
+        "PMID:42650821:s01:p02"
+      ],
+      "edge_b": "Hypertension->BMICat",
+      "support_b": [
+        "PMID:42213742:s02:p07",
+        "PMID:42571021:s08:p01",
+        "PMID:42488722:s03:p01",
+        "PMID:42901975:s02:p02"
+      ]
+    },
+    {
+      "edge_a": "BMICat->Sex",
+      "support_a": [
+        "PMID:42607927:s09:p02"
+      ],
+      "edge_b": "Sex->BMICat",
+      "support_b": [
+        "PMID:42824721:s12:p04",
+        "PMID:42824721:s12:p05",
+        "PMID:41867241:s04:p04",
+        "PMID:42620560:s02:p01",
+        "PMID:42381893:s05:p02",
+        "PMID:42901975:s02:p01",
+        "PMID:42899079:s07:p01"
+      ]
+    },
+    {
+      "edge_a": "PhysActivity->TobaccoSmoking",
+      "support_a": [
+        "PMID:42582489:s04:p01",
+        "PMID:42582489:s09:p01"
+      ],
+      "edge_b": "TobaccoSmoking->PhysActivity",
+      "support_b": [
+        "PMID:42550956:s03:p03",
+        "PMID:42189766:s07:p01"
+      ]
+    },
+    {
+      "edge_a": "Hypertension->Sex",
+      "support_a": [
+        "PMID:42901975:s02:p04"
+      ],
+      "edge_b": "Sex->Hypertension",
+      "support_b": [
+        "PMID:41867241:s04:p02"
+      ]
+    },
+    {
+      "edge_a": "Hypertension->TobaccoSmoking",
+      "support_a": [
+        "PMID:42516458:s09:p02",
+        "PMID:42655935:s05:p10"
+      ],
+      "edge_b": "TobaccoSmoking->Hypertension",
+      "support_b": [
+        "PMID:42516458:s09:p03",
+        "PMID:42798462:s15:p03"
+      ]
+    },
+    {
+      "edge_a": "BMICat->InsulinResistance",
+      "support_a": [
+        "PMID:41998064:s02:p02"
+      ],
+      "edge_b": "InsulinResistance->BMICat",
+      "support_b": [
+        "PMID:42213742:s02:p06",
+        "PMID:42796348:s02:p03",
+        "PMID:42694803:s05:p01"
+      ]
+    },
+    {
+      "edge_a": "Sex->TobaccoSmoking",
+      "support_a": [
+        "PMID:42363097:s11:p01",
+        "PMID:42363097:s11:p04",
+        "PMID:41645112:s07:p02"
+      ],
+      "edge_b": "TobaccoSmoking->Sex",
+      "support_b": [
+        "PMID:42607995:s05:p01",
+        "PMID:42798462:s15:p02"
+      ]
+    },
+    {
+      "edge_a": "AgeCat->BMICat",
+      "support_a": [
+        "PMID:42305142:s04:p05"
+      ],
+      "edge_b": "BMICat->AgeCat",
+      "support_b": [
+        "PMID:42305142:s04:p01"
+      ]
+    }
+  ],
+  "cycle_repair": [
+    {
+      "iteration": 1,
+      "removed_edge": "BMICat->PhysActivity",
+      "source": "BMICat",
+      "target": "PhysActivity",
+      "confidence": 0.4649,
+      "support_count": 1,
+      "cycle_detected": "PhysActivity -> BMICat -> PhysActivity"
+    },
+    {
+      "iteration": 2,
+      "removed_edge": "TobaccoSmoking->PhysActivity",
+      "source": "TobaccoSmoking",
+      "target": "PhysActivity",
+      "confidence": 0.443,
+      "support_count": 2,
+      "cycle_detected": "PhysActivity -> TobaccoSmoking -> PhysActivity"
+    },
+    {
+      "iteration": 3,
+      "removed_edge": "TobaccoSmoking->Hypertension",
+      "source": "TobaccoSmoking",
+      "target": "Hypertension",
+      "confidence": 0.499,
+      "support_count": 1,
+      "cycle_detected": "TobaccoSmoking -> Hypertension -> TobaccoSmoking"
+    },
+    {
+      "iteration": 4,
+      "removed_edge": "InsulinResistance->Hypertension",
+      "source": "InsulinResistance",
+      "target": "Hypertension",
+      "confidence": 0.4391,
+      "support_count": 1,
+      "cycle_detected": "InsulinResistance -> Hypertension -> InsulinResistance"
+    },
+    {
+      "iteration": 5,
+      "removed_edge": "Outcome->Hypertension",
+      "source": "Outcome",
+      "target": "Hypertension",
+      "confidence": 0.4617,
+      "support_count": 6,
+      "cycle_detected": "Hypertension -> Outcome -> Hypertension"
+    }
+  ]
+}

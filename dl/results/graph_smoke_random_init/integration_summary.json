@@ -1,0 +1,32 @@
+{
+  "checkpoint": "/home/claude/CausaL_NLPReasoning-main/models/smoke_random_init",
+  "pretrained_weights": false,
+  "threshold": 0.4,
+  "n_pairs": 2586,
+  "n_pred_causal": 639,
+  "n_unscorable": 0,
+  "n_below_threshold": 95,
+  "n_direction_conflicts": 18,
+  "self_loops_rejected": 299,
+  "cycles_before_repair": 17,
+  "edges_removed_by_repair": 5,
+  "dag_nodes": 8,
+  "dag_edges": 13,
+  "is_dag": true,
+  "edges": [
+    "Outcome->SleepDuration",
+    "Outcome->Diet",
+    "Hypertension->BMICat",
+    "Hypertension->Outcome",
+    "Hypertension->InsulinResistance",
+    "Hypertension->TobaccoSmoking",
+    "InsulinResistance->Outcome",
+    "InsulinResistance->BMICat",
+    "PhysActivity->Outcome",
+    "PhysActivity->BMICat",
+    "PhysActivity->TobaccoSmoking",
+    "BMICat->Outcome",
+    "TobaccoSmoking->Outcome"
+  ],
+  "WARNING": "random-init smoke checkpoint: mechanics demo only, edges are NOT scientific findings"
+}

@@ -1,0 +1,76 @@
+{
+  "args": {
+    "model": "distilbert-base-uncased",
+    "offline_smoke": true,
+    "local_files_only": false,
+    "epochs": 15,
+    "batch_size": 32,
+    "lr": 0.0005,
+    "weight_decay": 0.01,
+    "warmup_ratio": 0.1,
+    "max_length": 128,
+    "patience": 4,
+    "seed": 42,
+    "device": null,
+    "max_train": null,
+    "out": null
+  },
+  "device": "cpu",
+  "platform": "Linux-6.18.44-fc-v726-x86_64-with-glibc2.39",
+  "torch": "2.14.1",
+  "pretrained": false,
+  "n_train": 7199,
+  "n_dev": 801,
+  "class_weights": [
+    0.3810809254646301,
+    7.76591157913208,
+    4.046655654907227
+  ],
+  "total_training_seconds": 68.55300295200004,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 1.1352841609268491,
+      "val_loss": 1.1091646712073375,
+      "val_macro_f1": 0.3051873320814988,
+      "epoch_seconds": 11.337070551000124
+    },
+    {
+      "epoch": 2,
+      "train_loss": 1.1516644886126532,
+      "val_loss": 1.0979025096036075,
+      "val_macro_f1": 0.376858111256062,
+      "epoch_seconds": 11.14151668799991
+    },
+    {
+      "epoch": 3,
+      "train_loss": 1.106040542614859,
+      "val_loss": 1.0845359478996934,
+      "val_macro_f1": 0.23953081367978246,
+      "epoch_seconds": 11.475363101999847
+    },
+    {
+      "epoch": 4,
+      "train_loss": 1.0934816126956561,
+      "val_loss": 1.1108649323197934,
+      "val_macro_f1": 0.3331968940814661,
+      "epoch_seconds": 11.29445273500005
+    },
+    {
+      "epoch": 5,
+      "train_loss": 1.0721709212754762,
+      "val_loss": 1.090360545189342,
+      "val_macro_f1": 0.22682531411035842,
+      "epoch_seconds": 11.625233296000033
+    },
+    {
+      "epoch": 6,
+      "train_loss": 1.0642867838943944,
+      "val_loss": 1.072196047999588,
+      "val_macro_f1": 0.28805884207500604,
+      "epoch_seconds": 11.66365542099993
+    }
+  ],
+  "best_val_macro_f1": 0.376858111256062,
+  "WARNING": "random-init smoke run: pipeline verification only, NOT transfer learning"
+}

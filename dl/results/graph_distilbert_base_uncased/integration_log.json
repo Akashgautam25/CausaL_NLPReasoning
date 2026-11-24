@@ -1,0 +1,913 @@
+{
+  "threshold": 0.7,
+  "below_threshold": [
+    {
+      "pair_id": "PMID:42499017:s06:p01",
+      "confidence": 0.650702178478241,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42213742:s02:p06",
+      "confidence": 0.697150468826294,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42213742:s02:p07",
+      "confidence": 0.697150468826294,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42213742:s02:p08",
+      "confidence": 0.697150468826294,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42213742:s02:p09",
+      "confidence": 0.697150468826294,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42700058:s02:p01",
+      "confidence": 0.5488100647926331,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42700058:s02:p03",
+      "confidence": 0.5543171763420105,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42700058:s03:p01",
+      "confidence": 0.6437038779258728,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42783419:s03:p01",
+      "confidence": 0.5652920603752136,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42890806:s01:p01",
+      "confidence": 0.3897610008716583,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42658720:s02:p03",
+      "confidence": 0.6152183413505554,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42862335:s01:p01",
+      "confidence": 0.43995121121406555,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42862335:s02:p03",
+      "confidence": 0.6337780952453613,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42862335:s13:p06",
+      "confidence": 0.48855745792388916,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42862335:s13:p07",
+      "confidence": 0.48855745792388916,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42862335:s13:p08",
+      "confidence": 0.48855745792388916,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42862335:s13:p09",
+      "confidence": 0.48855745792388916,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42862335:s13:p10",
+      "confidence": 0.48855745792388916,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42862335:s13:p11",
+      "confidence": 0.48855745792388916,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42862335:s13:p12",
+      "confidence": 0.48855745792388916,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42862335:s13:p13",
+      "confidence": 0.48855745792388916,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42862335:s13:p14",
+      "confidence": 0.48855745792388916,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42862335:s13:p15",
+      "confidence": 0.48855745792388916,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42872196:s08:p05",
+      "confidence": 0.4585385024547577,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42824721:s01:p04",
+      "confidence": 0.44510504603385925,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42824721:s12:p08",
+      "confidence": 0.5112732648849487,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42824721:s12:p09",
+      "confidence": 0.5112732648849487,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42824721:s12:p11",
+      "confidence": 0.4152413606643677,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42824721:s12:p12",
+      "confidence": 0.4152413606643677,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42824721:s12:p13",
+      "confidence": 0.5555936694145203,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42824721:s12:p14",
+      "confidence": 0.5555936694145203,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42819449:s04:p01",
+      "confidence": 0.6180195212364197,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42503624:s01:p02",
+      "confidence": 0.508569061756134,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42670404:s14:p03",
+      "confidence": 0.6561647057533264,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42694298:s01:p02",
+      "confidence": 0.5581551790237427,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42707244:s05:p01",
+      "confidence": 0.6011353135108948,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42707244:s05:p03",
+      "confidence": 0.4882614016532898,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42630470:s09:p19",
+      "confidence": 0.611699104309082,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42630470:s09:p20",
+      "confidence": 0.611699104309082,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42630470:s09:p21",
+      "confidence": 0.611699104309082,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42630470:s09:p22",
+      "confidence": 0.611699104309082,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42488722:s09:p03",
+      "confidence": 0.5762355923652649,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42748410:s05:p01",
+      "confidence": 0.6492288708686829,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42812257:s09:p01",
+      "confidence": 0.6136791110038757,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42265693:s04:p05",
+      "confidence": 0.5685636401176453,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42265693:s05:p01",
+      "confidence": 0.6250841617584229,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42512909:s01:p01",
+      "confidence": 0.394673228263855,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:41634666:s03:p01",
+      "confidence": 0.5250105857849121,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42760186:s01:p02",
+      "confidence": 0.5543863773345947,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42575672:s02:p02",
+      "confidence": 0.6374695897102356,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42575672:s02:p08",
+      "confidence": 0.38365229964256287,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42575672:s05:p02",
+      "confidence": 0.4762139618396759,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42575672:s05:p04",
+      "confidence": 0.42828813195228577,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42575672:s06:p05",
+      "confidence": 0.5676109194755554,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42575672:s08:p02",
+      "confidence": 0.5094953775405884,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:41867241:s04:p01",
+      "confidence": 0.4750030040740967,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42620560:s02:p04",
+      "confidence": 0.6933082342147827,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42381893:s01:p06",
+      "confidence": 0.4149462878704071,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42582489:s08:p01",
+      "confidence": 0.6085472702980042,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42582489:s09:p01",
+      "confidence": 0.6466661095619202,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42901975:s01:p01",
+      "confidence": 0.6047894954681396,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42901975:s02:p03",
+      "confidence": 0.5294231176376343,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42601774:s09:p03",
+      "confidence": 0.5138617753982544,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42796348:s02:p02",
+      "confidence": 0.6012117862701416,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42796348:s02:p03",
+      "confidence": 0.6046460866928101,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42516458:s09:p02",
+      "confidence": 0.5359014272689819,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42756900:s01:p03",
+      "confidence": 0.5669940710067749,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42756900:s05:p01",
+      "confidence": 0.3877275586128235,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42388961:s02:p01",
+      "confidence": 0.5003467202186584,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42388961:s02:p02",
+      "confidence": 0.5003467202186584,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42388961:s02:p03",
+      "confidence": 0.5003467202186584,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42388961:s02:p04",
+      "confidence": 0.5003467202186584,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42655935:s05:p10",
+      "confidence": 0.6729362607002258,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42588238:s02:p02",
+      "confidence": 0.6823601126670837,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42466348:s02:p02",
+      "confidence": 0.6138659715652466,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42466348:s02:p03",
+      "confidence": 0.645457923412323,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42615248:s06:p03",
+      "confidence": 0.6711584329605103,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42615248:s06:p04",
+      "confidence": 0.513416051864624,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42615248:s06:p07",
+      "confidence": 0.6314325332641602,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42615248:s06:p09",
+      "confidence": 0.5594407916069031,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42237620:s08:p01",
+      "confidence": 0.5379613041877747,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42814269:s07:p01",
+      "confidence": 0.5120980739593506,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42883720:s02:p01",
+      "confidence": 0.6742076873779297,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42877484:s09:p01",
+      "confidence": 0.6100764870643616,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:41998064:s15:p03",
+      "confidence": 0.6463257074356079,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42899427:s07:p01",
+      "confidence": 0.4781770706176758,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42638941:s07:p01",
+      "confidence": 0.40524712204933167,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:41439842:s07:p01",
+      "confidence": 0.5852980613708496,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42189766:s07:p03",
+      "confidence": 0.6885476112365723,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42558546:s10:p01",
+      "confidence": 0.6905897855758667,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42271260:s03:p01",
+      "confidence": 0.5053854584693909,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42271260:s03:p03",
+      "confidence": 0.6519455909729004,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42271260:s06:p01",
+      "confidence": 0.6912956833839417,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42547683:s02:p01",
+      "confidence": 0.5160686373710632,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42547683:s02:p02",
+      "confidence": 0.6836905479431152,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42547683:s02:p03",
+      "confidence": 0.665363073348999,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42138393:s06:p03",
+      "confidence": 0.44036582112312317,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42595238:s01:p03",
+      "confidence": 0.4840792417526245,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42595238:s01:p04",
+      "confidence": 0.4840792417526245,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42225636:s01:p01",
+      "confidence": 0.6757360100746155,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42504374:s09:p02",
+      "confidence": 0.492360919713974,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42450077:s04:p02",
+      "confidence": 0.6834575533866882,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42304130:s15:p01",
+      "confidence": 0.4383966624736786,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42783806:s03:p02",
+      "confidence": 0.4879574477672577,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42783806:s03:p03",
+      "confidence": 0.6965765357017517,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42783806:s03:p07",
+      "confidence": 0.6503089070320129,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42783806:s03:p09",
+      "confidence": 0.6026383638381958,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42783806:s03:p10",
+      "confidence": 0.6663647890090942,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42828458:s02:p01",
+      "confidence": 0.6811057329177856,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42225437:s03:p05",
+      "confidence": 0.41693180799484253,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42656766:s02:p01",
+      "confidence": 0.5175997018814087,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42656766:s02:p03",
+      "confidence": 0.6109982132911682,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42656766:s02:p04",
+      "confidence": 0.5348091721534729,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42656766:s02:p07",
+      "confidence": 0.5846313834190369,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42656766:s02:p08",
+      "confidence": 0.5037750005722046,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42656766:s02:p13",
+      "confidence": 0.6456035375595093,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42656766:s09:p02",
+      "confidence": 0.6209350824356079,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42656766:s12:p01",
+      "confidence": 0.497928649187088,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42656766:s13:p02",
+      "confidence": 0.6887096762657166,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42656766:s13:p03",
+      "confidence": 0.46918103098869324,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42656766:s13:p09",
+      "confidence": 0.632078230381012,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42656766:s13:p11",
+      "confidence": 0.5900455713272095,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42656766:s13:p12",
+      "confidence": 0.5441517233848572,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42656766:s13:p16",
+      "confidence": 0.6611716747283936,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42656766:s13:p17",
+      "confidence": 0.34111326932907104,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42656766:s13:p20",
+      "confidence": 0.6867130398750305,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42656766:s13:p21",
+      "confidence": 0.6558131575584412,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42656766:s13:p22",
+      "confidence": 0.6448203325271606,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42656766:s13:p23",
+      "confidence": 0.5788949728012085,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42656766:s13:p27",
+      "confidence": 0.46411219239234924,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42656766:s13:p36",
+      "confidence": 0.6911671161651611,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42491982:s01:p03",
+      "confidence": 0.480337917804718,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42798462:s01:p01",
+      "confidence": 0.47197261452674866,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42505561:s02:p01",
+      "confidence": 0.44358596205711365,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42650821:s01:p01",
+      "confidence": 0.5548297166824341,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42650821:s01:p03",
+      "confidence": 0.44509822130203247,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42817769:s06:p04",
+      "confidence": 0.5596858263015747,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42817769:s08:p01",
+      "confidence": 0.4977036118507385,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42733913:s02:p01",
+      "confidence": 0.5205448269844055,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42388501:s02:p04",
+      "confidence": 0.6607116460800171,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42502449:s05:p05",
+      "confidence": 0.6086392998695374,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:41645112:s01:p01",
+      "confidence": 0.5025931000709534,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42187875:s01:p09",
+      "confidence": 0.5564300417900085,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42187875:s01:p12",
+      "confidence": 0.5682498812675476,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42694803:s05:p01",
+      "confidence": 0.591238260269165,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42523808:s01:p06",
+      "confidence": 0.6074601411819458,
+      "class": "causal"
+    },
+    {
+      "pair_id": "PMID:42523808:s02:p03",
+      "confidence": 0.4661155641078949,
+      "class": "causal"
+    }
+  ],
+  "unscorable": [],
+  "direction_conflicts": [
+    {
+      "edge_a": "Hypertension->Outcome",
+      "support_a": [
+        "PMID:42213742:s02:p13",
+        "PMID:42571021:s07:p01",
+        "PMID:42601774:s04:p02"
+      ],
+      "edge_b": "Outcome->Hypertension",
+      "support_b": [
+        "PMID:42819449:s02:p01",
+        "PMID:42488722:s03:p04",
+        "PMID:42575672:s08:p03",
+        "PMID:42601774:s09:p01",
+        "PMID:42516458:s01:p01",
+        "PMID:42523603:s09:p01"
+      ]
+    },
+    {
+      "edge_a": "Outcome->SleepDuration",
+      "support_a": [
+        "PMID:42213742:s02:p15"
+      ],
+      "edge_b": "SleepDuration->Outcome",
+      "support_b": [
+        "PMID:42739101:s07:p01",
+        "PMID:42739101:s11:p01"
+      ]
+    },
+    {
+      "edge_a": "BMICat->PhysActivity",
+      "support_a": [
+        "PMID:42670404:s02:p01",
+        "PMID:42670404:s12:p03",
+        "PMID:42630470:s03:p01",
+        "PMID:42656766:s13:p10",
+        "PMID:42656766:s13:p25",
+        "PMID:42656766:s13:p26"
+      ],
+      "edge_b": "PhysActivity->BMICat",
+      "support_b": [
+        "PMID:42824721:s12:p06",
+        "PMID:42824721:s12:p07"
+      ]
+    },
+    {
+      "edge_a": "Outcome->TobaccoSmoking",
+      "support_a": [
+        "PMID:42694168:s01:p01"
+      ],
+      "edge_b": "TobaccoSmoking->Outcome",
+      "support_b": [
+        "PMID:42243749:s07:p01",
+        "PMID:41439842:s09:p08",
+        "PMID:42189766:s07:p02"
+      ]
+    },
+    {
+      "edge_a": "BMICat->Hypertension",
+      "support_a": [
+        "PMID:42488722:s03:p01",
+        "PMID:42607927:s09:p01",
+        "PMID:42422434:s11:p01",
+        "PMID:42422434:s13:p01",
+        "PMID:42653674:s01:p01",
+        "PMID:42615248:s06:p10",
+        "PMID:42656766:s13:p29",
+        "PMID:42656766:s13:p30",
+        "PMID:42650821:s01:p02"
+      ],
+      "edge_b": "Hypertension->BMICat",
+      "support_b": [
+        "PMID:42571021:s08:p01",
+        "PMID:42796297:s06:p03",
+        "PMID:42901975:s02:p02",
+        "PMID:42656766:s13:p04",
+        "PMID:42305142:s04:p04",
+        "PMID:42523808:s04:p01"
+      ]
+    },
+    {
+      "edge_a": "InsulinResistance->Outcome",
+      "support_a": [
+        "PMID:42769672:s01:p02",
+        "PMID:42901975:s03:p01",
+        "PMID:42901975:s03:p03",
+        "PMID:42722379:s04:p01",
+        "PMID:41998064:s02:p03",
+        "PMID:42898555:s02:p01",
+        "PMID:42898555:s02:p02"
+      ],
+      "edge_b": "Outcome->InsulinResistance",
+      "support_b": [
+        "PMID:42595238:s01:p01",
+        "PMID:42304130:s01:p02",
+        "PMID:42491982:s01:p02"
+      ]
+    },
+    {
+      "edge_a": "BMICat->Outcome",
+      "support_a": [
+        "PMID:41634666:s01:p01",
+        "PMID:42760186:s01:p01",
+        "PMID:42620560:s01:p01",
+        "PMID:42756900:s01:p02",
+        "PMID:42466348:s02:p09",
+        "PMID:42466348:s02:p10",
+        "PMID:41998064:s02:p01",
+        "PMID:42415555:s01:p01",
+        "PMID:42415555:s01:p02"
+      ],
+      "edge_b": "Outcome->BMICat",
+      "support_b": [
+        "PMID:42057961:s01:p02",
+        "PMID:42057961:s01:p03",
+        "PMID:42656766:s01:p02",
+        "PMID:42656766:s01:p04",
+        "PMID:42888167:s01:p02"
+      ]
+    },
+    {
+      "edge_a": "BMICat->InsulinResistance",
+      "support_a": [
+        "PMID:42299201:s02:p01"
+      ],
+      "edge_b": "InsulinResistance->BMICat",
+      "support_b": [
+        "PMID:41998064:s02:p02",
+        "PMID:42638670:s04:p01"
+      ]
+    },
+    {
+      "edge_a": "Outcome->PhysActivity",
+      "support_a": [
+        "PMID:42189766:s07:p05"
+      ],
+      "edge_b": "PhysActivity->Outcome",
+      "support_b": [
+        "PMID:42700058:s02:p02",
+        "PMID:42700058:s02:p04"
+      ]
+    }
+  ],
+  "cycle_repair": [
+    {
+      "iteration": 1,
+      "removed_edge": "BMICat->PhysActivity",
+      "source": "BMICat",
+      "target": "PhysActivity",
+      "confidence": 0.8503,
+      "support_count": 3,
+      "cycle_detected": "BMICat -> PhysActivity -> BMICat"
+    },
+    {
+      "iteration": 2,
+      "removed_edge": "Hypertension->BMICat",
+      "source": "Hypertension",
+      "target": "BMICat",
+      "confidence": 0.8533,
+      "support_count": 5,
+      "cycle_detected": "BMICat -> Hypertension -> BMICat"
+    },
+    {
+      "iteration": 3,
+      "removed_edge": "InsulinResistance->BMICat",
+      "source": "InsulinResistance",
+      "target": "BMICat",
+      "confidence": 0.8342,
+      "support_count": 1,
+      "cycle_detected": "BMICat -> InsulinResistance -> BMICat"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "args": {
+    "model": "distilbert-base-uncased",
+    "offline_smoke": false,
+    "local_files_only": false,
+    "epochs": 4,
+    "batch_size": 16,
+    "lr": 2e-05,
+    "weight_decay": 0.01,
+    "warmup_ratio": 0.1,
+    "max_length": 128,
+    "patience": 2,
+    "seed": 42,
+    "device": null,
+    "max_train": null,
+    "out": null
+  },
+  "device": "mps",
+  "platform": "macOS-27.2.1-arm64-arm-64bit",
+  "torch": "2.15.0",
+  "pretrained": true,
+  "n_train": 7199,
+  "n_dev": 801,
+  "class_weights": [
+    0.3810809254646301,
+    7.76591157913208,
+    4.046655654907227
+  ],
+  "total_training_seconds": 480.2946154999954,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.5443075030301078,
+      "val_loss": 0.15578657931435422,
+      "val_macro_f1": 0.8953625275195375,
+      "epoch_seconds": 95.27901766600553
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.20050406330373774,
+      "val_loss": 0.2971085279337892,
+      "val_macro_f1": 0.9242053517805903,
+      "epoch_seconds": 200.94155512499856
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.12530744595424262,
+      "val_loss": 0.26893664686450097,
+      "val_macro_f1": 0.9448699430288036,
+      "epoch_seconds": 96.46022899998934
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.058545242239059915,
+      "val_loss": 0.3475895189641572,
+      "val_macro_f1": 0.9308028025468659,
+      "epoch_seconds": 83.99997683300171
+    }
+  ],
+  "best_val_macro_f1": 0.9448699430288036,
+  "WARNING": null
+}

@@ -1,0 +1,576 @@
+{
+  "checkpoint": "/home/claude/CausaL_NLPReasoning-main/models/smoke_random_init",
+  "model_kind": "RANDOM-INIT SMOKE MODEL (not transfer learning)",
+  "pretrained": false,
+  "device": "cpu",
+  "gold_semeval": {
+    "spaCy-Rules": {
+      "n": 2700,
+      "labels": [
+        "NONE",
+        "CAUSE_E1_E2",
+        "CAUSE_E2_E1"
+      ],
+      "accuracy": 0.95,
+      "macro_precision": 0.9113425109738212,
+      "macro_recall": 0.7720881899127496,
+      "macro_f1": 0.8291784404187101,
+      "weighted_f1": 0.9463887491021982,
+      "per_class": {
+        "NONE": {
+          "precision": 0.9556910569105691,
+          "recall": 0.9907290349768226,
+          "f1": 0.9728946823918891,
+          "support": 2373
+        },
+        "CAUSE_E1_E2": {
+          "precision": 0.8558558558558559,
+          "recall": 0.7089552238805971,
+          "f1": 0.7755102040816326,
+          "support": 134
+        },
+        "CAUSE_E2_E1": {
+          "precision": 0.9224806201550387,
+          "recall": 0.616580310880829,
+          "f1": 0.7391304347826086,
+          "support": 193
+        }
+      },
+      "confusion_matrix": [
+        [
+          2351,
+          14,
+          8
+        ],
+        [
+          37,
+          95,
+          2
+        ],
+        [
+          72,
+          2,
+          119
+        ]
+      ],
+      "binary_causal_f1": 0.7689594356261023,
+      "inference_seconds_total": 0.33943423700020503,
+      "inference_ms_per_sentence": 0.12571638407415
+    },
+    "KeywordHeuristic": {
+      "n": 2700,
+      "labels": [
+        "NONE",
+        "CAUSE_E1_E2",
+        "CAUSE_E2_E1"
+      ],
+      "accuracy": 0.8951851851851852,
+      "macro_precision": 0.8799465775410793,
+      "macro_recall": 0.4796448651371616,
+      "macro_f1": 0.5082679178852224,
+      "weighted_f1": 0.8593091504365622,
+      "per_class": {
+        "NONE": {
+          "precision": 0.8995799923634975,
+          "recall": 0.9928360724820902,
+          "f1": 0.9439102564102564,
+          "support": 2373
+        },
+        "CAUSE_E1_E2": {
+          "precision": 0.7402597402597403,
+          "recall": 0.4253731343283582,
+          "f1": 0.5402843601895735,
+          "support": 134
+        },
+        "CAUSE_E2_E1": {
+          "precision": 1.0,
+          "recall": 0.02072538860103627,
+          "f1": 0.04060913705583756,
+          "support": 193
+        }
+      },
+      "confusion_matrix": [
+        [
+          2356,
+          17,
+          0
+        ],
+        [
+          77,
+          57,
+          0
+        ],
+        [
+          186,
+          3,
+          4
+        ]
+      ],
+      "binary_causal_f1": 0.3137254901960784,
+      "inference_seconds_total": 0.2791465079999398,
+      "inference_ms_per_sentence": 0.10338759555553326
+    },
+    "FineTuned-DistilBERT": {
+      "n": 2700,
+      "labels": [
+        "NONE",
+        "CAUSE_E1_E2",
+        "CAUSE_E2_E1"
+      ],
+      "accuracy": 0.7051851851851851,
+      "macro_precision": 0.3668607021204653,
+      "macro_recall": 0.39720094626531316,
+      "macro_f1": 0.3659876036258967,
+      "weighted_f1": 0.7460195972824858,
+      "per_class": {
+        "NONE": {
+          "precision": 0.894455252918288,
+          "recall": 0.7749683944374209,
+          "f1": 0.8304357642808761,
+          "support": 2373
+        },
+        "CAUSE_E1_E2": {
+          "precision": 0.09162303664921466,
+          "recall": 0.26119402985074625,
+          "f1": 0.13565891472868216,
+          "support": 134
+        },
+        "CAUSE_E2_E1": {
+          "precision": 0.11450381679389313,
+          "recall": 0.15544041450777202,
+          "f1": 0.13186813186813187,
+          "support": 193
+        }
+      },
+      "confusion_matrix": [
+        [
+          1839,
+          321,
+          213
+        ],
+        [
+          80,
+          35,
+          19
+        ],
+        [
+          137,
+          26,
+          30
+        ]
+      ],
+      "binary_causal_f1": 0.22657054582904224,
+      "inference_seconds_total": 1.3281117720000566,
+      "inference_ms_per_sentence": 0.49189324888890984,
+      "training_seconds": 68.55300295200004
+    }
+  },
+  "silver_diabetes": {
+    "all_250_pairs": {
+      "spaCy-Rules": {
+        "n": 250,
+        "labels": [
+          "causal",
+          "association_only",
+          "none"
+        ],
+        "accuracy": 0.912,
+        "macro_precision": 0.9444136511204371,
+        "macro_recall": 0.9229813664596275,
+        "macro_f1": 0.931630410065944,
+        "weighted_f1": 0.9102390661714547,
+        "per_class": {
+          "causal": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 4
+          },
+          "association_only": {
+            "precision": 0.9315068493150684,
+            "recall": 0.8,
+            "f1": 0.8607594936708861,
+            "support": 85
+          },
+          "none": {
+            "precision": 0.9017341040462428,
+            "recall": 0.968944099378882,
+            "f1": 0.9341317365269461,
+            "support": 161
+          }
+        },
+        "confusion_matrix": [
+          [
+            4,
+            0,
+            0
+          ],
+          [
+            0,
+            68,
+            17
+          ],
+          [
+            0,
+            5,
+            156
+          ]
+        ]
+      },
+      "KeywordHeuristic": {
+        "n": 250,
+        "labels": [
+          "causal",
+          "association_only",
+          "none"
+        ],
+        "accuracy": 0.808,
+        "macro_precision": 0.5919225551855963,
+        "macro_recall": 0.6161064425770308,
+        "macro_f1": 0.6012254901960784,
+        "weighted_f1": 0.8106500000000001,
+        "per_class": {
+          "causal": {
+            "precision": 0.16666666666666666,
+            "recall": 0.25,
+            "f1": 0.2,
+            "support": 4
+          },
+          "association_only": {
+            "precision": 0.7411764705882353,
+            "recall": 0.7411764705882353,
+            "f1": 0.7411764705882353,
+            "support": 85
+          },
+          "none": {
+            "precision": 0.8679245283018868,
+            "recall": 0.8571428571428571,
+            "f1": 0.8625,
+            "support": 161
+          }
+        },
+        "confusion_matrix": [
+          [
+            1,
+            1,
+            2
+          ],
+          [
+            3,
+            63,
+            19
+          ],
+          [
+            2,
+            21,
+            138
+          ]
+        ]
+      },
+      "FineTuned-DistilBERT": {
+        "n": 250,
+        "labels": [
+          "causal",
+          "association_only",
+          "none"
+        ],
+        "accuracy": 0.488,
+        "macro_precision": 0.2188683609448637,
+        "macro_recall": 0.3338509316770186,
+        "macro_f1": 0.24073260073260072,
+        "weighted_f1": 0.4457723076923077,
+        "per_class": {
+          "causal": {
+            "precision": 0.01639344262295082,
+            "recall": 0.25,
+            "f1": 0.03076923076923077,
+            "support": 4
+          },
+          "association_only": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 85
+          },
+          "none": {
+            "precision": 0.6402116402116402,
+            "recall": 0.7515527950310559,
+            "f1": 0.6914285714285714,
+            "support": 161
+          }
+        },
+        "confusion_matrix": [
+          [
+            1,
+            0,
+            3
+          ],
+          [
+            20,
+            0,
+            65
+          ],
+          [
+            40,
+            0,
+            121
+          ]
+        ]
+      }
+    },
+    "pilot_20_pairs": {
+      "spaCy-Rules": {
+        "n": 2,
+        "labels": [
+          "causal",
+          "association_only",
+          "none"
+        ],
+        "accuracy": 1.0,
+        "macro_precision": 0.3333333333333333,
+        "macro_recall": 0.3333333333333333,
+        "macro_f1": 0.3333333333333333,
+        "weighted_f1": 1.0,
+        "per_class": {
+          "causal": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          },
+          "association_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 2
+          },
+          "none": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          }
+        },
+        "confusion_matrix": [
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            2,
+            0
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      },
+      "KeywordHeuristic": {
+        "n": 2,
+        "labels": [
+          "causal",
+          "association_only",
+          "none"
+        ],
+        "accuracy": 1.0,
+        "macro_precision": 0.3333333333333333,
+        "macro_recall": 0.3333333333333333,
+        "macro_f1": 0.3333333333333333,
+        "weighted_f1": 1.0,
+        "per_class": {
+          "causal": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          },
+          "association_only": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 2
+          },
+          "none": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          }
+        },
+        "confusion_matrix": [
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            2,
+            0
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      },
+      "Gemini-LLM (20-pair pilot)": {
+        "n": 2,
+        "labels": [
+          "causal",
+          "association_only",
+          "none"
+        ],
+        "accuracy": 0.0,
+        "macro_precision": 0.0,
+        "macro_recall": 0.0,
+        "macro_f1": 0.0,
+        "weighted_f1": 0.0,
+        "per_class": {
+          "causal": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          },
+          "association_only": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 2
+          },
+          "none": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          }
+        },
+        "confusion_matrix": [
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            2
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      },
+      "Groq-LLM (20-pair pilot)": {
+        "n": 2,
+        "labels": [
+          "causal",
+          "association_only",
+          "none"
+        ],
+        "accuracy": 0.0,
+        "macro_precision": 0.0,
+        "macro_recall": 0.0,
+        "macro_f1": 0.0,
+        "weighted_f1": 0.0,
+        "per_class": {
+          "causal": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          },
+          "association_only": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 2
+          },
+          "none": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          }
+        },
+        "confusion_matrix": [
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            2
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      },
+      "FineTuned-DistilBERT": {
+        "n": 2,
+        "labels": [
+          "causal",
+          "association_only",
+          "none"
+        ],
+        "accuracy": 0.0,
+        "macro_precision": 0.0,
+        "macro_recall": 0.0,
+        "macro_f1": 0.0,
+        "weighted_f1": 0.0,
+        "per_class": {
+          "causal": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          },
+          "association_only": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 2
+          },
+          "none": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          }
+        },
+        "confusion_matrix": [
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            2
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    "distilbert_inference_ms_per_pair": 1.2154522480004744,
+    "NOTE": "Labels are rule-generated PROVISIONAL_RULE_PSEUDO_GOLD (not human-verified). Only 4/250 are causal; test split has 0 causal. DistilBERT never predicts association_only (not in its training labels)."
+  }
+}

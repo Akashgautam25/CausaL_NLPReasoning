@@ -59,3 +59,13 @@ results/models/checkpoint-*
 
 # Audit backups
 backups/
+
+# DL extension
+.venv/
+.env
+models/distilbert_base_uncased/
+models/_nb_tok/
+data/raw/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/

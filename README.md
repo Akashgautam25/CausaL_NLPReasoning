@@ -314,3 +314,28 @@ Phase 1 produces the evidence graph and variable ontology for Phase 2:
   Hendrickx, I., et al. (2010). *SemEval-2010 Task 8: Multi-Way Classification of Semantic Relations Between Pairs of Nominals*. Proceedings of SemEval-2010.
 - **scispaCy / spaCy:**  
   Neumann, M., et al. (2019). *ScispaCy: Fast and Robust Models for Biomedical Natural Language Processing*. Proceedings of BIONLP 2019.
+
+---
+
+## Deep Learning Extension (DistilBERT relation extraction + Bayesian network)
+
+**Title:** Neuro-Symbolic Causal Inference Using Transformer-Based Relation Extraction and Bayesian Reasoning.
+The AML code above is preserved unchanged (only a comment in `src/extractors/distilbert_extractor.py` was clarified: that file is a *keyword heuristic*, not DistilBERT).
+
+| New component | Location |
+|---|---|
+| SemEval-2010 Task 8 loader, label mapping, leakage-safe splits | `src/preprocessing/semeval.py` |
+| Entity markers, dataset/collate, DistilBERT + entity-pooled head, checkpoints | `src/extractors/distilbert/` |
+| `BaseExtractor`-compatible fine-tuned extractor | `src/extractors/distilbert/extractor.py` |
+| Training / evaluation / AML-vs-DL comparison | `dl/training/train.py`, `dl/evaluation/` |
+| Graph integration (threshold, conflicts, cycle repair log) | `src/graph/dl_integration.py`, `dl/run_graph_integration.py` |
+| Bayesian network (pgmpy: CPDs, validation, conditional + do-queries) | `src/bayesian/`, `dl/run_bayesian_demo.py` |
+| Notebook, PDF report, viva guide, dataset audit | `dl/notebooks/`, `reports/` |
+
+**Setup on MacBook M3 Pro:** see `docs/DL_SETUP_MAC.md`. **Tests:** `python -m pytest tests -q`.
+
+### Honest status of results
+* The pipeline, tests (82 passing), notebook, graph integration and Bayesian layer were executed in a build sandbox **without access to Hugging Face**, so pretrained `distilbert-base-uncased` could not be downloaded there.
+* Everything in `dl/results/smoke_random_init/` comes from a **randomly-initialised small DistilBERT-architecture model** and only verifies the pipeline. It is *not* transfer learning and is not the project's DistilBERT result.
+* **You must run `docs/DL_SETUP_MAC.md` steps 5-8 once** to obtain the real fine-tuned result; `reports/build_report.py` then rebuilds the PDF from those real numbers.
+* Gold evidence = SemEval-2010 Task 8 test (human-annotated). Diabetes labels are rule-generated *silver* labels; Gemini/Groq predictions exist for 20 pairs only.

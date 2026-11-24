@@ -1,0 +1,26 @@
+# DL extension configuration (read by documentation; CLI flags in dl/training/train.py mirror these)
+dataset:
+  name: semeval2010_task8
+  dev_fraction: 0.10
+  seed: 42
+  labels: [NONE, CAUSE_E1_E2, CAUSE_E2_E1]
+model:
+  base_model: distilbert-base-uncased
+  marker_tokens: ["[E1]", "[/E1]", "[E2]", "[/E2]"]
+  pooling: cls+entity_start_markers
+  max_length: 128
+training:
+  learning_rate: 2.0e-5
+  batch_size: 16
+  epochs: 4
+  weight_decay: 0.01
+  warmup_ratio: 0.1
+  early_stopping_patience: 2
+  class_weights: inverse_frequency
+graph:
+  confidence_threshold: 0.7
+bayesian:
+  base_rate: 0.10
+  strength: 0.30
+  root_prior: 0.30
+  parameter_source: ILLUSTRATIVE
